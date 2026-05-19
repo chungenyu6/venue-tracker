@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-05-01`
+> **Last updated:** `2026-05-19`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,22 +11,22 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **NeurIPS 2026** | May 4, 2026 | ~3 days | Abstract |
-| 2 | **MILCOM 2026** | May 15, 2026 | ~14 days | Full Paper (Unclassified) |
-| 3 | **BMVC 2026** | May 22, 2026 | ~21 days | Abstract |
+| 1 | **BMVC 2026** | May 22, 2026 | ~3 days | Abstract |
+| 2 | **CoRL 2026** | May 25, 2026 | ~6 days | Abstract |
+| 3 | **EMNLP 2026** | May 25, 2026 | ~6 days | Full Paper (ARR) |
 
 ### Next 3 Submission Deadlines — Workshops
 
 | # | Workshop @ | Deadline | Days Left | Notes |
 |---|-----------|----------|-----------|-------|
-| 1 | **ACL 2026** | TBD | TBD | Per-workshop deadlines; ~Apr–May expected |
+| 1 | **ACL 2026** | TBD | TBD | Per-workshop deadlines; check individual CFPs |
 | 2 | **IJCAI 2026** | ~May–Jun 2026 | TBD | Per-workshop deadlines; check individual CFPs |
 | 3 | **ECCV 2026** | ~Jun 2026 | TBD | ~Jun 2026 expected |
 
 ### Conferences Happening Soon
-- **ICLR 2026** → Apr 27 – May 1, 2026 · Singapore *(ends today)*
-- **AISTATS 2026** → May 2–5, 2026 · Tangier, Morocco *(1 day away)*
-- **MLSys 2026** → May 17–22, 2026 · Bellevue, WA *(16 days away)*
+- **MLSys 2026** → May 17–22, 2026 · Bellevue, WA *(ongoing — ends in 3 days)*
+- **AAMAS 2026** → May 25–29, 2026 · Paphos, Cyprus *(6 days away)*
+- **ICRA 2026** → Jun 1–5, 2026 · Vienna, Austria *(13 days away)*
 
 
 ## 📋 Full Conference Table
@@ -47,8 +47,8 @@
 | Mar | 🔴 Closed | [**IROS 2026**](https://2026.ieee-iros.org) | — | Mar 2, 2026 | Sep 27–Oct 1, 2026 | Pittsburgh, PA | A | No abstract deadline |
 | Mar | 🔴 Closed | [**ECML-PKDD 2026**](https://ecmlpkdd.org/2026/) | Mar 5, 2026 | Mar 12, 2026 | Sep 7–11, 2026 | Naples, Italy | A | Research track |
 | Mar | 🔴 Closed | [**COLM 2026**](https://colmweb.org) | Mar 26, 2026 | Mar 31, 2026 | Oct 6–9, 2026 | San Francisco, CA | — | New conf (est. 2024) |
-| May | 🟡 Upcoming | [**NeurIPS 2026**](https://neurips.cc/Conferences/2026) | May 4, 2026 | May 6, 2026 | Dec 6–13, 2026 | Sydney / Atlanta / Paris | A* | Multi-city: Sydney Dec 6–12, Atlanta Dec 8–13, Paris Dec 9–13 |
-| May | 🟡 Upcoming | [**MILCOM 2026**](https://milcom2026.ieee-milcom.org) | — | May 15, 2026 | Oct 12–16, 2026 | Washington DC area | — | IEEE Comms/Defense; classified track deadline Jun 5 |
+| May | 🔴 Closed | [**NeurIPS 2026**](https://neurips.cc/Conferences/2026) | May 4, 2026 | May 6, 2026 | Dec 6–13, 2026 | Sydney / Atlanta / Paris | A* | Multi-city: Sydney Dec 6–12, Atlanta Dec 8–13, Paris Dec 9–13 |
+| May | 🔴 Closed | [**MILCOM 2026**](https://milcom2026.ieee-milcom.org) | — | May 15, 2026 | Oct 12–16, 2026 | Washington DC area | — | IEEE Comms/Defense; classified track deadline Jun 5 |
 | May | 🟡 Upcoming | [**BMVC 2026**](https://bmvc2026.bmva.org) | May 22, 2026 | May 29, 2026 | Nov 23–26, 2026 | Lancaster, UK | B | |
 | Jun | 🟡 Upcoming | [**CoRL 2026**](https://www.corl.org) | May 25, 2026 | May 28, 2026 | Nov 9–12, 2026 | Austin, TX | A | |
 | Jun | 🟡 Upcoming | [**EMNLP 2026**](https://2026.emnlp.org) | May 25, 2026 *(ARR)* | May 25, 2026 | Oct 24–29, 2026 | Budapest, Hungary | A* | Via ARR; commit Aug 2 |

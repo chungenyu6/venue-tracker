@@ -1,6 +1,6 @@
 # Fellowship & Award Tracker
 
-> **Last updated:** `2026-05-01`
+> **Last updated:** `2026-05-19`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents
 >
@@ -10,10 +10,11 @@
 
 ## ⚡ Upcoming Deadlines (Next 90 Days)
 
-| Fellowship | ~Deadline | ~Days Away | Action Needed |
-|-----------|----------|-----------|--------------|
-| [**OpenAI Safety Fellowship**](https://openai.com/index/introducing-openai-safety-fellowship/) | **May 3, 2026** | **2 days** | Self-apply directly — safety evaluation, robustness, agentic oversight. Program runs Sep 14, 2026 – Feb 5, 2027 |
-| [**Amazon Research Awards (Spring)**](https://www.amazon.science/research-awards) | May 6, 2026 | 5 days | Faculty/advisor-driven grant — confirm with advisor if submitting this cycle |
+No confirmed deadlines in the next 90 days (window: May 19 – Aug 17, 2026).
+
+**On the horizon (prepare now):**
+- **Meta Research PhD Fellowship** — opens **Aug 3**, deadline Sep 20. No nomination needed. Start drafting research statement now.
+- **IBM PhD Fellowship** — ~**Aug 31** (faculty nomination required; confirm with advisor in July).
 
 ---
 
@@ -25,7 +26,7 @@
 |-----------|---------|----------|-------|----------|------------|------------|-------------|-------|
 | [**Google PhD Fellowship**](https://research.google/programs-and-events/phd-fellowship/) | Google | ~Late Apr | Up to $85K/yr (tuition, stipend, travel, equipment) + Google Research mentor | 1–3 yrs | University nominates ≤3 | PhD in CS/related; any year | ML, VLM, LLM, UQ, Agents | Gold standard industry fellowship. 2026 cycle closed April 30; results by Aug 31. UF nominates through grad school — internal deadline typically 2–3 weeks earlier |
 | [**Amazon Research Awards**](https://www.amazon.science/research-awards) | Amazon | ~May (Spring) ~Nov (Fall) | Up to ~$100K total + AWS credits | 2 yrs | Faculty nominates | PhD at partner universities; faculty-driven proposal | ML, VLM, LLM, CV | Two cycles/year; advisor submits research proposal. Part of $68M initiative across CMU, UCB, MIT and partners |
-| [**Anthropic Fellows Program**](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | ~Apr, ~Jul | $3,850/wk + up to $15K/mo compute | 4 months | **Self-apply** | PhD students and researchers eligible; remote | ML, LLM, Agents, Safety | New (est. 2025). Two cohorts/yr. Focus: scalable oversight, adversarial robustness, AI control, mechanistic interpretability. ~25–50% of past fellows received FT offers. Strong fit for robustness/UQ framing |
+| [**Anthropic Fellows Program**](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | ~Late Apr | $3,850/wk + up to $15K/mo compute | 4 months | **Self-apply** | PhD students and researchers eligible; remote | ML, LLM, Agents, Safety | New (est. 2025). Two cohorts/yr (May and Jul start). 2026 deadline: Apr 26, 2026 (closed). Focus: scalable oversight, adversarial robustness, AI control, mechanistic interpretability. ~25–50% of past fellows received FT offers. Strong fit for robustness/UQ framing |
 | [**OpenAI Safety Fellowship**](https://openai.com/index/introducing-openai-safety-fellowship/) | OpenAI | ~May | Stipend + compute support | ~5 months (Sep–Feb) | **Self-apply** | PhD students and researchers; CS, social science, cybersecurity, HCI | ML, LLM, Agents, Safety | New (est. 2026). Annual cycle; 2026 deadline was May 3. Focus: safety eval, robustness, agentic oversight, privacy-preserving safety. Strong fit for UQ/robustness work framed as safety |
 | [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | IBM | ~Late Aug | ~$40K+/yr stipend + tuition support + IBM Research mentor | 1–2 yrs | Faculty advisor nominates | Full-time PhD; any year | ML, UQ, Agents | Targets AI, hybrid cloud, quantum+ML intersections. Good match for uncertainty-aware systems |
 | [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | Apple | ~Early Sep | $40K/yr stipend + full tuition + $2K travel + paid internship | 2 yrs | University nominates ≤5 (priority for underrepresented groups) | PhD years 2–3 | ML, VLM, LLM, CV | Strong fit for VLM/privacy-preserving ML research. One of the more generous packages among industry fellowships |
