@@ -179,3 +179,34 @@ docker ps -a
 | Competition | `competition_tracker_rules.md` | `competition_tracker.md` |
 
 **Always read the corresponding rules file before updating any tracker.**
+
+---
+
+## Automated Daily Tracker Update (Remote Routine)
+
+A Claude Code remote routine (`Venue Tracker Daily Update`) runs every day at **8:00 AM Chicago time (13:00 UTC)** and automatically updates the conference, fellowship, and journal trackers, then commits and pushes to `main`.
+
+Routine ID: `trig_01MLaQvrNEf1ph9NgDVWgM6F`  
+Manage at: https://claude.ai/code/routines/trig_01MLaQvrNEf1ph9NgDVWgM6F
+
+### How the routine authenticates to GitHub
+
+The routine clones and pushes via a GitHub Fine-Grained PAT embedded in the git source URL:
+```
+https://<PAT>@github.com/chungenyu6/venue-tracker
+```
+
+### How to rotate the PAT (when it expires)
+
+1. Go to https://github.com/settings/tokens?type=beta
+2. Click **"Generate new token"**
+3. Settings:
+   - **Token name**: `venue-tracker-routine`
+   - **Repository access**: Only `venue-tracker`
+   - **Permissions → Contents**: Read and write
+4. Copy the generated token
+5. Open Claude Code in this repo and run:
+   > "Update the venue tracker routine's git URL with this new PAT: `<paste token>`"
+   Claude will call `RemoteTrigger` with `action: update` and patch the `job_config.ccr.session_context.sources[0].git_repository.url`.
+
+> **Never commit the PAT to the repo.** It lives only inside the routine's `job_config` on Anthropic's side.
