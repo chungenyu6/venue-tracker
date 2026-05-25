@@ -7,3 +7,5 @@ Link to trackers:
 - [Journal Tracker](./journal_tracker.md)
 - [Conference Tracker](./conference_tracker.md)
 - [Fellowship Tracker](./fellowship_tracker.md)
+
+> Trackers are updated every Tuesday 8:00 AM CDT.
