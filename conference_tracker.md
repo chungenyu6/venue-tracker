@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-05-19`
+> **Last updated:** `2026-05-25`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,9 +11,9 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **BMVC 2026** | May 22, 2026 | ~3 days | Abstract |
-| 2 | **CoRL 2026** | May 25, 2026 | ~6 days | Abstract |
-| 3 | **EMNLP 2026** | May 25, 2026 | ~6 days | Full Paper (ARR) |
+| 1 | **EMNLP 2026** | May 25, 2026 | Today | Full Paper (ARR) |
+| 2 | **CoRL 2026** | May 28, 2026 | 3 days | Full Paper |
+| 3 | **BMVC 2026** | May 29, 2026 | 4 days | Full Paper |
 
 ### Next 3 Submission Deadlines — Workshops
 
@@ -24,9 +24,9 @@
 | 3 | **ECCV 2026** | ~Jun 2026 | TBD | ~Jun 2026 expected |
 
 ### Conferences Happening Soon
-- **MLSys 2026** → May 17–22, 2026 · Bellevue, WA *(ongoing — ends in 3 days)*
-- **AAMAS 2026** → May 25–29, 2026 · Paphos, Cyprus *(6 days away)*
-- **ICRA 2026** → Jun 1–5, 2026 · Vienna, Austria *(13 days away)*
+- **AAMAS 2026** → May 25–29, 2026 · Paphos, Cyprus *(starts today)*
+- **ICRA 2026** → Jun 1–5, 2026 · Vienna, Austria *(7 days away)*
+- **CVPR 2026** → Jun 3–7, 2026 · Denver, CO *(9 days away)*
 
 
 ## 📋 Full Conference Table
