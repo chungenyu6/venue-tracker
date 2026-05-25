@@ -188,7 +188,7 @@ Two complementary systems run the daily update — a local systemd timer (primar
 
 ### Primary: Local systemd timer (runs on this machine)
 
-Fires every day at **8:00 AM CDT**. If the machine is off at 8am, it runs automatically on next boot (`Persistent=true`).
+Fires every **Tuesday at 8:00 AM CDT**. If the machine is off at 8am, it runs automatically on next boot (`Persistent=true`).
 
 - **Service file:** `~/.config/systemd/user/venue-tracker.service`
 - **Timer file:** `~/.config/systemd/user/venue-tracker.timer`
@@ -203,7 +203,7 @@ journalctl --user -u venue-tracker.service -f   # tail logs
 
 ### Backup: Remote CCR routine (runs in Anthropic's cloud)
 
-Runs every day at **8:00 AM Chicago time (13:00 UTC)**, independent of whether the laptop is on.
+Runs every **Tuesday at 8:00 AM Chicago time (13:00 UTC)**, independent of whether the laptop is on.
 
 Routine ID: `trig_01NcRBxeGLnDrqxCWnc7aAEF`  
 Manage at: https://claude.ai/code/routines/trig_01NcRBxeGLnDrqxCWnc7aAEF
