@@ -1,6 +1,6 @@
 # Journal Tracker
 
-> **Last updated:** `2026-05-25`
+> **Last updated:** `2026-05-26`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents · Robotics
 

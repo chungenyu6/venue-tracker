@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-05-25`
+> **Last updated:** `2026-05-26`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,22 +11,22 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **EMNLP 2026** | May 25, 2026 | Today | Full Paper (ARR) |
-| 2 | **CoRL 2026** | May 28, 2026 | 3 days | Full Paper |
-| 3 | **BMVC 2026** | May 29, 2026 | 4 days | Full Paper |
+| 1 | **CoRL 2026** | May 28, 2026 | 2 days | Full Paper |
+| 2 | **BMVC 2026** | May 29, 2026 | 3 days | Full Paper |
+| — | *(no further confirmed main-conference deadlines)* | — | — | — |
 
 ### Next 3 Submission Deadlines — Workshops
 
 | # | Workshop @ | Deadline | Days Left | Notes |
 |---|-----------|----------|-----------|-------|
-| 1 | **ACL 2026** | TBD | TBD | Per-workshop deadlines; check individual CFPs |
-| 2 | **IJCAI 2026** | ~May–Jun 2026 | TBD | Per-workshop deadlines; check individual CFPs |
-| 3 | **ECCV 2026** | ~Jun 2026 | TBD | ~Jun 2026 expected |
+| 1 | **IJCAI 2026** | ~May–Jun 2026 | TBD | Per-workshop deadlines; check individual CFPs |
+| 2 | **ECCV 2026** | ~Jun 2026 | TBD | ~Jun 2026 expected |
+| 3 | **EMNLP 2026** | ~Jul 2026 | TBD | Per-workshop deadlines; check individual CFPs |
 
 ### Conferences Happening Soon
-- **AAMAS 2026** → May 25–29, 2026 · Paphos, Cyprus *(starts today)*
-- **ICRA 2026** → Jun 1–5, 2026 · Vienna, Austria *(7 days away)*
-- **CVPR 2026** → Jun 3–7, 2026 · Denver, CO *(9 days away)*
+- **AAMAS 2026** → May 25–29, 2026 · Paphos, Cyprus *(ongoing — ends in 3 days)*
+- **ICRA 2026** → Jun 1–5, 2026 · Vienna, Austria *(6 days away)*
+- **CVPR 2026** → Jun 3–7, 2026 · Denver, CO *(8 days away)*
 
 
 ## 📋 Full Conference Table
@@ -51,7 +51,7 @@
 | May | 🔴 Closed | [**MILCOM 2026**](https://milcom2026.ieee-milcom.org) | — | May 15, 2026 | Oct 12–16, 2026 | Washington DC area | — | IEEE Comms/Defense; classified track deadline Jun 5 |
 | May | 🟡 Upcoming | [**BMVC 2026**](https://bmvc2026.bmva.org) | May 22, 2026 | May 29, 2026 | Nov 23–26, 2026 | Lancaster, UK | B | |
 | Jun | 🟡 Upcoming | [**CoRL 2026**](https://www.corl.org) | May 25, 2026 | May 28, 2026 | Nov 9–12, 2026 | Austin, TX | A | |
-| Jun | 🟡 Upcoming | [**EMNLP 2026**](https://2026.emnlp.org) | May 25, 2026 *(ARR)* | May 25, 2026 | Oct 24–29, 2026 | Budapest, Hungary | A* | Via ARR; commit Aug 2 |
+| Jun | 🔴 Closed | [**EMNLP 2026**](https://2026.emnlp.org) | May 25, 2026 *(ARR)* | May 25, 2026 | Oct 24–29, 2026 | Budapest, Hungary | A* | Via ARR; commit Aug 2 |
 | Jul | 🔴 Closed | [**WACV 2026**](https://wacv.thecvf.com/Conferences/2026) | Jul 11, 2025 *(reg.)* | Jul 18, 2025 | Mar 6–10, 2026 | Tucson, AZ | B | Round 2: Sep 19, 2025 |
 | Aug | 🔴 Closed | [**AAAI 2026**](https://aaai.org/conference/aaai/aaai-26/) | Jul 25, 2025 | Aug 1, 2025 | Jan 20–27, 2026 | Singapore | A* | |
 | Sep | 🔴 Closed | [**ICRA 2026**](https://2026.ieee-icra.org) | — | Sep 15, 2025 | Jun 1–5, 2026 | Vienna, Austria | A* | No abstract deadline |
@@ -70,7 +70,7 @@
 | Feb | 🔴 Closed | [ICLR 2026 Workshops](https://iclr.cc/Conferences/2026/CallForWorkshops) | ~Feb 2026 | Apr 26–27, 2026 | Singapore | |
 | Mar | 🔴 Closed | [CVPR 2026 Workshops](https://cvpr.thecvf.com/Conferences/2026/CallForWorkshops) | ~Mar 20, 2026 | ~Jun 3, 2026 | Denver, CO | |
 | Apr | 🔴 Closed | [ICML 2026 Workshops](https://icml.cc/Conferences/2026/CallForWorkshops) | ~Apr 24, 2026 | Jul 10–11, 2026 | Seoul, Korea | Suggested deadline |
-| Apr | 🔵 Future | [ACL 2026 Workshops](https://2026.aclweb.org) | TBD | ~Jul 2, 2026 | San Diego, CA | |
+| Apr | 🔴 Closed | [ACL 2026 Workshops](https://2026.aclweb.org) | ~Mar 5, 2026 (direct) / Mar 24, 2026 (ARR) | ~Jul 2, 2026 | San Diego, CA | Joint EACL/ACL 2026 workshop call |
 | May | 🔵 Future | [IJCAI 2026 Workshops](https://2026.ijcai.org) | ~May–Jun 2026 | Aug 15–17, 2026 | Bremen, Germany | Per-workshop deadlines; check individual CFPs |
 | Jun | 🔵 Future | [ECCV 2026 Workshops](https://eccv.ecva.net/Conferences/2026/CallForWorkshops) | ~Jun 2026 | ~Sep 8, 2026 | Malmö, Sweden | |
 | Jul | 🔵 Future | [EMNLP 2026 Workshops](https://2026.emnlp.org) | ~Jul 2026 | ~Oct 23, 2026 | Budapest, Hungary | |

@@ -1,6 +1,6 @@
 # Fellowship & Award Tracker
 
-> **Last updated:** `2026-05-25`
+> **Last updated:** `2026-05-26`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents
 >
@@ -10,7 +10,7 @@
 
 ## ⚡ Upcoming Deadlines (Next 90 Days)
 
-No confirmed deadlines in the next 90 days (window: May 25 – Aug 23, 2026).
+No confirmed deadlines in the next 90 days (window: May 26 – Aug 24, 2026).
 
 **On the horizon (prepare now):**
 - **Meta Research PhD Fellowship** — opens **Aug 3**, deadline Sep 20. No nomination needed. Start drafting research statement now.
