@@ -1,6 +1,6 @@
 # Fellowship & Award Tracker
 
-> **Last updated:** `2026-05-26`
+> **Last updated:** `2026-06-02`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents
 >
@@ -10,11 +10,14 @@
 
 ## ⚡ Upcoming Deadlines (Next 90 Days)
 
-No confirmed deadlines in the next 90 days (window: May 26 – Aug 24, 2026).
+Window: Jun 2 – Sep 1, 2026
 
-**On the horizon (prepare now):**
+| Fellowship | ~Deadline | ~Days Away | Action Needed |
+|-----------|----------|-----------|---------------|
+| [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | ~Aug 31, 2026 | ~90 days | Faculty advisor must nominate — confirm with advisor in July |
+
+**On the horizon (beyond 90 days):**
 - **Meta Research PhD Fellowship** — opens **Aug 3**, deadline Sep 20. No nomination needed. Start drafting research statement now.
-- **IBM PhD Fellowship** — ~**Aug 31** (faculty nomination required; confirm with advisor in July).
 
 ---
 

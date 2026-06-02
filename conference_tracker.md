@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-05-26`
+> **Last updated:** `2026-06-02`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,9 +11,7 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **CoRL 2026** | May 28, 2026 | 2 days | Full Paper |
-| 2 | **BMVC 2026** | May 29, 2026 | 3 days | Full Paper |
-| — | *(no further confirmed main-conference deadlines)* | — | — | — |
+| — | *(no confirmed main-conference deadlines remaining in this cycle)* | — | — | — |
 
 ### Next 3 Submission Deadlines — Workshops
 
@@ -24,9 +22,9 @@
 | 3 | **EMNLP 2026** | ~Jul 2026 | TBD | Per-workshop deadlines; check individual CFPs |
 
 ### Conferences Happening Soon
-- **AAMAS 2026** → May 25–29, 2026 · Paphos, Cyprus *(ongoing — ends in 3 days)*
-- **ICRA 2026** → Jun 1–5, 2026 · Vienna, Austria *(6 days away)*
-- **CVPR 2026** → Jun 3–7, 2026 · Denver, CO *(8 days away)*
+- **ICRA 2026** → Jun 1–5, 2026 · Vienna, Austria *(ongoing — ends Jun 5, 3 days left)*
+- **CVPR 2026** → Jun 3–7, 2026 · Denver, CO *(1 day away)*
+- **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(30 days away)*
 
 
 ## 📋 Full Conference Table
@@ -49,8 +47,8 @@
 | Mar | 🔴 Closed | [**COLM 2026**](https://colmweb.org) | Mar 26, 2026 | Mar 31, 2026 | Oct 6–9, 2026 | San Francisco, CA | — | New conf (est. 2024) |
 | May | 🔴 Closed | [**NeurIPS 2026**](https://neurips.cc/Conferences/2026) | May 4, 2026 | May 6, 2026 | Dec 6–13, 2026 | Sydney / Atlanta / Paris | A* | Multi-city: Sydney Dec 6–12, Atlanta Dec 8–13, Paris Dec 9–13 |
 | May | 🔴 Closed | [**MILCOM 2026**](https://milcom2026.ieee-milcom.org) | — | May 15, 2026 | Oct 12–16, 2026 | Washington DC area | — | IEEE Comms/Defense; classified track deadline Jun 5 |
-| May | 🟡 Upcoming | [**BMVC 2026**](https://bmvc2026.bmva.org) | May 22, 2026 | May 29, 2026 | Nov 23–26, 2026 | Lancaster, UK | B | |
-| Jun | 🟡 Upcoming | [**CoRL 2026**](https://www.corl.org) | May 25, 2026 | May 28, 2026 | Nov 9–12, 2026 | Austin, TX | A | |
+| May | 🔴 Closed | [**BMVC 2026**](https://bmvc2026.bmva.org) | May 22, 2026 | May 29, 2026 | Nov 23–26, 2026 | Lancaster, UK | B | |
+| Jun | 🔴 Closed | [**CoRL 2026**](https://www.corl.org) | May 25, 2026 | May 28, 2026 | Nov 9–12, 2026 | Austin, TX | A | |
 | Jun | 🔴 Closed | [**EMNLP 2026**](https://2026.emnlp.org) | May 25, 2026 *(ARR)* | May 25, 2026 | Oct 24–29, 2026 | Budapest, Hungary | A* | Via ARR; commit Aug 2 |
 | Jul | 🔴 Closed | [**WACV 2026**](https://wacv.thecvf.com/Conferences/2026) | Jul 11, 2025 *(reg.)* | Jul 18, 2025 | Mar 6–10, 2026 | Tucson, AZ | B | Round 2: Sep 19, 2025 |
 | Aug | 🔴 Closed | [**AAAI 2026**](https://aaai.org/conference/aaai/aaai-26/) | Jul 25, 2025 | Aug 1, 2025 | Jan 20–27, 2026 | Singapore | A* | |
