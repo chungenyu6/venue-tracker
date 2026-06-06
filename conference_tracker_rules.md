@@ -24,6 +24,11 @@
 - **One row per host conference** — do not list individual workshops
 - Use `~` prefix for approximate dates (e.g., `~Apr 24, 2026`) since workshop deadlines vary by ±1–2 weeks
 - **Sorted by**: Est. Month (Jan → Dec), same as main table
+- **Split into `#### YYYY Cycle` subsections** (same as main table)
+- **Coverage rule**: every conference in the main table that has workshops MUST have a corresponding workshop row. Conferences that typically skip workshops (UAI, AISTATS, BMVC, MLSys, MILCOM) are exempt. Use ⚫ No Edition for off-year biennial conferences (e.g., ECCV in odd years).
+
+**Conferences that hold workshops (always track):**
+ICLR, CVPR, ICML, ACL/EMNLP/EACL, IJCAI, ECCV/ICCV, NeurIPS, AAAI, ICRA, IROS, CoRL, ECML-PKDD, COLM, KDD, AAMAS, WACV
 
 ### Upcoming Section
 - **Next 3 Submission Deadlines — Main Conferences**: top 3 upcoming abstract/full-paper deadlines from the main table, with days-left count relative to today
@@ -105,8 +110,32 @@
 ## Special Conference Notes
 
 - **ECCV**: even years only; **ICCV**: odd years only → use ⚫ No Edition for off-years
-- **ACL / EMNLP / NAACL**: use ACL Rolling Review (ARR) system — note in the Notes column
+- **ACL / EMNLP / NAACL / EACL**: use ACL Rolling Review (ARR) system — note in the Notes column
 - **KDD**: two submission cycles per year (Cycle 1 ~Jul, Cycle 2 ~Feb)
-- **WACV**: two rounds per year (~Jul and ~Sep)
+- **WACV**: two rounds per year (~Jun and ~Aug, shifted earlier starting 2027 cycle)
 - **MILCOM**: IEEE Comms/Defense conference; has classified and unclassified paper tracks
 - **COLM**: new conference (est. 2024), LLM-specific, not yet in CORE rankings
+
+---
+
+## New Cycle Timing
+
+When to start a new year-N cycle table: **starting in May–June of year N-1**, the first conferences open their CFPs. Use this as the trigger to add a `### NNNN Cycle` section.
+
+Observed pattern for the announcement order within a cycle (approximate, based on 2027 cycle observed in Jun 2026):
+
+| Approx. Announcement | Conference(s) | Deadline Month |
+|----------------------|--------------|----------------|
+| May–Jun (N-1) | WACV | Jun–Jul (N-1) |
+| Jun–Jul (N-1) | AAAI | Jul–Aug (N-1) |
+| Jul–Aug (N-1) | EACL (ARR) | Aug (N-1) |
+| Aug–Sep (N-1) | ICLR | Oct (N-1) |
+| Sep–Oct (N-1) | CVPR | Nov (N-1) |
+| Nov–Dec (N-1) | AISTATS, ICML, IJCAI | Jan (N) |
+| Dec–Jan | ACL (ARR), UAI | Feb (N) |
+| Jan–Feb (N) | ICCV, IROS, ECML-PKDD, COLM | Mar (N) |
+| Mar–Apr (N) | NeurIPS, EMNLP (ARR), CoRL, BMVC | May (N) |
+
+**Rule of thumb**: if the current month is **May or later**, start populating the next year's cycle. Most deadlines in the first half of the cycle (WACV through CVPR) are announced 5–7 months before the submission deadline. Deadlines in the second half (ICML through NeurIPS) are announced 2–4 months out.
+
+> **Note**: This timing is empirically observed from the 2027 cycle (observed Jun 2026) and may shift ±2–4 weeks year to year. Do not treat exact months as guarantees — use them as "time to start checking" signals.

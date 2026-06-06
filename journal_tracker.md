@@ -58,6 +58,7 @@ Journals highlighted in the original tracker as primary submission targets.
 | Journal | Publisher | IF (2024) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
 |---------|-----------|:---------:|:---:|:--:|:---------:|:---------:|----------|-------|
 | [**T-RO**](https://www.ieee-ras.org/publications/t-ro) | IEEE | **10.5–12.2** | — | — | — | $2,645 | SCIE, Scopus | Premier robotics journal. Physical embodiment + rigorous control theory. |
+| [**RA-L**](https://www.ieee-ras.org/publications/ra-l) | IEEE | **5.3** | — | — | — | $2,645 | SCIE, Scopus | Letters format (6 pages). Accepted papers can present at ICRA, IROS, CASE (within 270 days) — standard pathway for conference-visible robotics work. Fast: ~4 months to decision. Q1. |
 | [**JAAMAS**](https://link.springer.com/journal/10458) | Springer | **2.6** | 1.5 | 80 | — | ~$2,500–3,500 | SCIE, Scopus | Core AAMAS community journal. Game theory, MARL, multi-agent architectures. |
 
 ### Uncertainty Quantification & Data-Centric AI
@@ -98,6 +99,7 @@ Journals highlighted in the original tracker as primary submission targets.
 | IJCV | ✓✓ | — | — | — | — | — |
 | TIP | ✓✓ | — | — | — | — | — |
 | T-RO | — | — | — | ✓✓ | — | — |
+| RA-L | ✓ | — | — | ✓✓ | — | — |
 | JAAMAS | — | — | — | — | — | ✓✓ |
 | ACM TOPML | — | — | ✓✓ | — | ✓ | — |
 | DMLR | — | ✓ | — | — | ✓✓ | — |
