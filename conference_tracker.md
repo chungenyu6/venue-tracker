@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-06-05`
+> **Last updated:** `2026-06-06`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,9 +11,9 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **WACV 2027** | Jun 26, 2026 (R1) | 21 | Full Paper |
-| 2 | **AAAI 2027** | Jul 21, 2026 | 46 | Abstract |
-| 3 | **EACL 2027** | Aug 3, 2026 | 59 | ARR Submission |
+| 1 | **WACV 2027** | Jun 26, 2026 (R1) | 20 | Full Paper |
+| 2 | **AAAI 2027** | Jul 21, 2026 | 45 | Abstract |
+| 3 | **EACL 2027** | Aug 3, 2026 | 58 | ARR Submission |
 
 ### Next 3 Submission Deadlines — Workshops
 
@@ -24,9 +24,9 @@
 | 3 | **EMNLP 2026** | ~Jul 2026 | TBD | Per-workshop deadlines; check individual CFPs |
 
 ### Conferences Happening Soon
-- **CVPR 2026** → Jun 3–7, 2026 · Denver, CO *(ongoing — ends Jun 7, 2 days left)*
-- **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(27 days away)*
-- **ICML 2026** → Jul 6–11, 2026 · Seoul, Korea *(31 days away)*
+- **CVPR 2026** → Jun 3–7, 2026 · Denver, CO *(ongoing — ends Jun 7, 1 day left)*
+- **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(26 days away)*
+- **ICML 2026** → Jul 6–11, 2026 · Seoul, Korea *(30 days away)*
 
 
 ## 📋 Full Conference Table
@@ -39,6 +39,7 @@
 |:----------:|--------|-----------|----------|------------|-----------|----------|:----:|-------|
 | Jan | 🔴 Closed | [**IJCAI 2026**](https://2026.ijcai.org) | Jan 12, 2026 | Jan 19, 2026 | Aug 15–21, 2026 | Bremen, Germany | A* | Joint with ECAI |
 | Jan | 🔴 Closed | [**ICML 2026**](https://icml.cc) | Jan 23, 2026 | Jan 28, 2026 | Jul 6–11, 2026 | Seoul, Korea | A* | |
+| Jan | 🔴 Closed | [**RSS 2026**](https://roboticsconference.org) | Jan 23, 2026 | Jan 30, 2026 | Jul 13–17, 2026 | Sydney, Australia | — | CORE TBR; 22nd edition |
 | Feb | 🔴 Closed | [**ACL 2026**](https://2026.aclweb.org) | Feb 14, 2026 | Feb 14, 2026 | Jul 2–7, 2026 | San Diego, CA | A* | Via ARR |
 | Feb | 🔴 Closed | [**KDD 2026**](https://kdd2026.kdd.org) | Feb 1, 2026 | Feb 8, 2026 | Aug 9–13, 2026 | Jeju, Korea | A* | 2 cycles; Cycle 1: Jul 31, 2025 |
 | Feb | 🔴 Closed | [**UAI 2026**](https://www.auai.org/uai2026/) | Feb 25, 2026 | Feb 25, 2026 | Aug 17–21, 2026 | Amsterdam, NL | A | |
@@ -79,6 +80,7 @@
 | Jan | 🔵 Future | [**AISTATS 2027**](https://aistats.org) | TBD | TBD | Apr 2027 | TBD | A | |
 | Jan | 🔵 Future | [**ICML 2027**](https://icml2027.eurac.edu) | TBD | TBD | Jul 2027 | South Tyrol, Italy | A* | |
 | Jan | 🔵 Future | [**IJCAI 2027**](https://ijcai.org) | TBD | TBD | Aug 2027 | TBD | A* | |
+| Jan | 🔵 Future | [**RSS 2027**](https://roboticsconference.org) | TBD | TBD | Jul 2027 | TBD | — | CORE TBR; ~Jan deadline historically |
 | Feb | 🔵 Future | [**KDD 2027**](https://kdd.org) | TBD | TBD | Aug 2027 | TBD | A* | 2 cycles; Cycle 1 ~Jul 2026 |
 | Feb | 🔵 Future | [**ACL 2027**](https://aclweb.org) | — | TBD (ARR) | Jul 2027 | TBD | A* | Via ARR |
 | Feb | 🔵 Future | [**UAI 2027**](https://www.auai.org) | TBD | TBD | TBD | TBD | A | |
@@ -112,6 +114,7 @@
 | May | 🔵 Future | [IJCAI 2026 Workshops](https://2026.ijcai.org) | ~May–Jun 2026 | Aug 15–17, 2026 | Bremen, Germany | Per-workshop deadlines; check individual CFPs |
 | Jun | 🔵 Future | [ECCV 2026 Workshops](https://eccv.ecva.net/Conferences/2026/CallForWorkshops) | ~Jun 2026 | ~Sep 8, 2026 | Malmö, Sweden | |
 | Jun | 🔵 Future | [ECML-PKDD 2026 Workshops](https://ecmlpkdd.org/2026/) | ~Jun 2026 | ~Sep 7, 2026 | Naples, Italy | |
+| Jun | 🟡 Upcoming | [RSS 2026 Workshops](https://roboticsconference.org) | ~May–Jun 2026 | ~Jul 13, 2026 | Sydney, Australia | Per-workshop deadlines vary; at least one open (Jun 8) |
 | Jun | 🔵 Future | [IROS 2026 Workshops](https://2026.ieee-iros.org) | ~Jun–Jul 2026 | ~Sep 27, 2026 | Pittsburgh, PA | Per-workshop deadlines; check individual CFPs |
 | Jul | 🔵 Future | [COLM 2026 Workshops](https://colmweb.org) | ~Jul 2026 | ~Oct 6, 2026 | San Francisco, CA | |
 | Jul | 🔵 Future | [EMNLP 2026 Workshops](https://2026.emnlp.org) | ~Jul 2026 | ~Oct 23, 2026 | Budapest, Hungary | |
@@ -131,6 +134,7 @@
 | Apr | 🔵 Future | [ACL/EACL 2027 Workshops](https://aclweb.org) | ~Apr 2027 | ~Apr/Jul 2027 | TBD | EACL 2027 (Mar) + ACL 2027 (Jul) both hold workshops |
 | May | 🔵 Future | [IJCAI 2027 Workshops](https://ijcai.org) | ~May–Jun 2027 | ~Aug 2027 | TBD | |
 | Jun | 🔵 Future | [ECML-PKDD 2027 Workshops](https://ecmlpkdd.org) | ~Jun 2027 | ~Sep 2027 | TBD | |
+| Jun | 🔵 Future | [RSS 2027 Workshops](https://roboticsconference.org) | ~May–Jun 2027 | ~Jul 2027 | TBD | Per-workshop deadlines vary |
 | Jun | 🔵 Future | [IROS 2027 Workshops](https://ieee-iros.org) | ~Jun–Jul 2027 | ~Sep/Oct 2027 | TBD | |
 | Jul | 🔵 Future | [COLM 2027 Workshops](https://colmweb.org) | ~Jul 2027 | ~Oct 2027 | TBD | |
 | Jul | 🔵 Future | [EMNLP 2027 Workshops](https://emnlp.org) | ~Jul 2027 | ~Nov 2027 | TBD | |
@@ -176,6 +180,7 @@
 | CoRL | ✓ | — | — | ✓✓ | — | — |
 | IROS | ✓ | — | — | ✓✓ | — | — |
 | ICRA | ✓ | — | — | ✓✓ | — | — |
+| RSS | ✓ | — | — | ✓✓ | — | — |
 | MLSys | — | — | — | — | — | ✓✓ |
 | BMVC | ✓✓ | — | — | — | — | — |
 | MILCOM | — | — | — | — | — | — |
@@ -188,7 +193,7 @@
 - **CVPR / ICCV / ECCV / WACV** — best for vision and VLM papers (WACV = application-focused, lower bar)
 - **ACL / EMNLP / NAACL / COLM** — best for NLP/LLM focused work (COLM = LLM-specific, newer)
 - **UAI / AISTATS** — best for uncertainty quantification and probabilistic ML
-- **CoRL / IROS / ICRA** — best for robot learning, manipulation, navigation
+- **RSS / CoRL / IROS / ICRA** — best for robot learning, manipulation, navigation (RSS = most selective robotics conf)
 - **KDD / ECML-PKDD** — best for data mining, applied ML, and knowledge discovery
 - **AAMAS** — best for multi-agent systems and autonomous agents
 - **MLSys** — best for ML infrastructure, efficiency, compilers, and systems

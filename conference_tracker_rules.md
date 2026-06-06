@@ -28,7 +28,7 @@
 - **Coverage rule**: every conference in the main table that has workshops MUST have a corresponding workshop row. Conferences that typically skip workshops (UAI, AISTATS, BMVC, MLSys, MILCOM) are exempt. Use ⚫ No Edition for off-year biennial conferences (e.g., ECCV in odd years).
 
 **Conferences that hold workshops (always track):**
-ICLR, CVPR, ICML, ACL/EMNLP/EACL, IJCAI, ECCV/ICCV, NeurIPS, AAAI, ICRA, IROS, CoRL, ECML-PKDD, COLM, KDD, AAMAS, WACV
+ICLR, CVPR, ICML, ACL/EMNLP/EACL, IJCAI, ECCV/ICCV, NeurIPS, AAAI, ICRA, IROS, CoRL, RSS, ECML-PKDD, COLM, KDD, AAMAS, WACV
 
 ### Upcoming Section
 - **Next 3 Submission Deadlines — Main Conferences**: top 3 upcoming abstract/full-paper deadlines from the main table, with days-left count relative to today
