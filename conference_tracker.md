@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-06-06`
+> **Last updated:** `2026-06-09`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,22 +11,22 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **WACV 2027** | Jun 26, 2026 (R1) | 20 | Full Paper |
-| 2 | **AAAI 2027** | Jul 21, 2026 | 45 | Abstract |
-| 3 | **EACL 2027** | Aug 3, 2026 | 58 | ARR Submission |
+| 1 | **WACV 2027** | Jun 19, 2026 (R1 abstract) | 10 | Abstract |
+| 2 | **WACV 2027** | Jun 26, 2026 (R1) | 17 | Full Paper |
+| 3 | **AAAI 2027** | Jul 21, 2026 | 42 | Abstract |
 
 ### Next 3 Submission Deadlines — Workshops
 
 | # | Workshop @ | Deadline | Days Left | Notes |
 |---|-----------|----------|-----------|-------|
-| 1 | **IJCAI 2026** | ~May–Jun 2026 | TBD | Per-workshop deadlines; check individual CFPs |
-| 2 | **ECCV 2026** | ~Jun 2026 | TBD | ~Jun 2026 expected |
-| 3 | **EMNLP 2026** | ~Jul 2026 | TBD | Per-workshop deadlines; check individual CFPs |
+| 1 | **ECCV 2026** | ~Jun 2026 | TBD | ~Jun 2026 expected; check individual CFPs |
+| 2 | **ECML-PKDD 2026** | ~Jun 2026 | TBD | Per-workshop deadlines; check individual CFPs |
+| 3 | **IROS 2026** | ~Jun–Jul 2026 | TBD | Per-workshop deadlines; check individual CFPs |
 
 ### Conferences Happening Soon
-- **CVPR 2026** → Jun 3–7, 2026 · Denver, CO *(ongoing — ends Jun 7, 1 day left)*
-- **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(26 days away)*
-- **ICML 2026** → Jul 6–11, 2026 · Seoul, Korea *(30 days away)*
+- **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(23 days away)*
+- **ICML 2026** → Jul 6–11, 2026 · Seoul, Korea *(27 days away)*
+- **RSS 2026** → Jul 13–17, 2026 · Sydney, Australia *(34 days away)*
 
 
 ## 📋 Full Conference Table
@@ -111,10 +111,10 @@
 | Apr | 🔴 Closed | [ICML 2026 Workshops](https://icml.cc/Conferences/2026/CallForWorkshops) | ~Apr 24, 2026 | Jul 10–11, 2026 | Seoul, Korea | Suggested deadline |
 | Apr | 🔴 Closed | [ACL 2026 Workshops](https://2026.aclweb.org) | ~Mar 5, 2026 (direct) / Mar 24, 2026 (ARR) | ~Jul 2, 2026 | San Diego, CA | Joint EACL/ACL 2026 workshop call |
 | Apr | 🔴 Closed | [KDD 2026 Workshops](https://kdd2026.kdd.org) | ~Apr–May 2026 | ~Aug 9, 2026 | Jeju, Korea | |
-| May | 🔵 Future | [IJCAI 2026 Workshops](https://2026.ijcai.org) | ~May–Jun 2026 | Aug 15–17, 2026 | Bremen, Germany | Per-workshop deadlines; check individual CFPs |
+| May | 🔴 Closed | [IJCAI 2026 Workshops](https://2026.ijcai.org) | ~May–Jun 2026 | Aug 15–17, 2026 | Bremen, Germany | Per-workshop deadlines; check individual CFPs |
 | Jun | 🔵 Future | [ECCV 2026 Workshops](https://eccv.ecva.net/Conferences/2026/CallForWorkshops) | ~Jun 2026 | ~Sep 8, 2026 | Malmö, Sweden | |
 | Jun | 🔵 Future | [ECML-PKDD 2026 Workshops](https://ecmlpkdd.org/2026/) | ~Jun 2026 | ~Sep 7, 2026 | Naples, Italy | |
-| Jun | 🟡 Upcoming | [RSS 2026 Workshops](https://roboticsconference.org) | ~May–Jun 2026 | ~Jul 13, 2026 | Sydney, Australia | Per-workshop deadlines vary; at least one open (Jun 8) |
+| Jun | 🔴 Closed | [RSS 2026 Workshops](https://roboticsconference.org) | ~May–Jun 2026 | ~Jul 13, 2026 | Sydney, Australia | Per-workshop deadlines varied; last noted open deadline was Jun 8 |
 | Jun | 🔵 Future | [IROS 2026 Workshops](https://2026.ieee-iros.org) | ~Jun–Jul 2026 | ~Sep 27, 2026 | Pittsburgh, PA | Per-workshop deadlines; check individual CFPs |
 | Jul | 🔵 Future | [COLM 2026 Workshops](https://colmweb.org) | ~Jul 2026 | ~Oct 6, 2026 | San Francisco, CA | |
 | Jul | 🔵 Future | [EMNLP 2026 Workshops](https://2026.emnlp.org) | ~Jul 2026 | ~Oct 23, 2026 | Budapest, Hungary | |
