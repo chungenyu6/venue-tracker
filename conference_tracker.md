@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-06-09`
+> **Last updated:** `2026-06-17`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,9 +11,9 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **WACV 2027** | Jun 19, 2026 (R1 abstract) | 10 | Abstract |
-| 2 | **WACV 2027** | Jun 26, 2026 (R1) | 17 | Full Paper |
-| 3 | **AAAI 2027** | Jul 21, 2026 | 42 | Abstract |
+| 1 | **WACV 2027** | Jun 19, 2026 (R1 abstract) | 2 | Abstract |
+| 2 | **WACV 2027** | Jun 26, 2026 (R1) | 9 | Full Paper |
+| 3 | **AAAI 2027** | Jul 21, 2026 | 34 | Abstract |
 
 ### Next 3 Submission Deadlines — Workshops
 
@@ -24,9 +24,9 @@
 | 3 | **IROS 2026** | ~Jun–Jul 2026 | TBD | Per-workshop deadlines; check individual CFPs |
 
 ### Conferences Happening Soon
-- **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(23 days away)*
-- **ICML 2026** → Jul 6–11, 2026 · Seoul, Korea *(27 days away)*
-- **RSS 2026** → Jul 13–17, 2026 · Sydney, Australia *(34 days away)*
+- **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(15 days away)*
+- **ICML 2026** → Jul 6–11, 2026 · Seoul, Korea *(19 days away)*
+- **RSS 2026** → Jul 13–17, 2026 · Sydney, Australia *(26 days away)*
 
 
 ## 📋 Full Conference Table
@@ -71,7 +71,7 @@
 |:----------:|--------|-----------|----------|------------|-----------|----------|:----:|-------|
 | Jun | 🟡 Upcoming | [**WACV 2027**](https://wacv.thecvf.com/Conferences/2027) | Jun 19, 2026 *(reg.)* | Jun 26, 2026 | Jan 5–9, 2027 | Disney Springs, FL | B | Round 2: Aug 28, 2026 |
 | Jul | 🟡 Upcoming | [**AAAI 2027**](https://aaai.org/conference/aaai/aaai-27/) | Jul 21, 2026 | Jul 28, 2026 | Feb 16–23, 2027 | Montréal, Canada | A* | |
-| Aug | 🟡 Upcoming | [**EACL 2027**](https://2027.eacl.org) | — | Aug 3, 2026 (ARR) | Mar 30–Apr 3, 2027 | TBD | A* | Via ARR; commit deadline Oct 11, 2026 |
+| Aug | 🟡 Upcoming | [**EACL 2027**](https://2027.eacl.org) | — | Aug 3, 2026 (ARR) | Mar 9–14, 2027 | Athens, Greece | A* | Via ARR; commit deadline Oct 11, 2026 |
 | Sep | 🔵 Future | [**ICRA 2027**](https://ieee-icra.org) | — | TBD | Jun 2027 | TBD | A* | No abstract deadline historically |
 | Oct | 🔵 Future | [**ICLR 2027**](https://iclr.cc) | TBD | TBD | Apr/May 2027 | TBD | A* | Historically ~Oct deadline |
 | Oct | 🔵 Future | [**AAMAS 2027**](https://www.ifaamas.org) | TBD | TBD | TBD | TBD | A | |
@@ -126,6 +126,7 @@
 
 | Est. Month | Status | Workshop @ | Full Paper | Workshop Date | Location | Notes |
 |:----------:|--------|-----------|------------|--------------|----------|-------|
+| Oct | 🔵 Future | [WACV 2027 Workshops](https://wacv.thecvf.com/Conferences/2027) | ~Oct 2026 | ~Jan 5, 2027 | Disney Springs, FL | Deadline typically ~3 months before conference |
 | Oct | 🔵 Future | [AAAI 2027 Workshops](https://aaai.org/conference/aaai/aaai-27/) | ~Oct–Nov 2026 | ~Feb 16, 2027 | Montréal, Canada | Historically ~Oct deadline |
 | Feb | 🔵 Future | [ICRA 2027 Workshops](https://ieee-icra.org) | ~Feb 2027 | ~Jun 2027 | TBD | |
 | Feb | 🔵 Future | [ICLR 2027 Workshops](https://iclr.cc) | ~Feb 2027 | ~Apr/May 2027 | TBD | |

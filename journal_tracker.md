@@ -1,8 +1,10 @@
 # Journal Tracker
 
-> **Last updated:** `2026-06-09`
+> **Last updated:** `2026-06-17`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents · Robotics
+>
+> ⚠️ **JCR 2026 released Jun 17, 2026** — IF (2025) values are now available. Verify and update all impact factors from [Clarivate JCR](https://clarivate.com/academia-government/scientific-and-academic-research/research-analytics-evaluation-and-citation/journal-citation-reports/). Column headers below still reflect IF (2024) until values are manually confirmed.
 
 ---
 
