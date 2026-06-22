@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-06-17`
+> **Last updated:** `2026-06-22`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -21,7 +21,7 @@
 |---|-----------|----------|-----------|-------|
 | 1 | **ECCV 2026** | ~Jun 2026 | TBD | ~Jun 2026 expected; check individual CFPs |
 | 2 | **ECML-PKDD 2026** | ~Jun 2026 | TBD | Per-workshop deadlines; check individual CFPs |
-| 3 | **IROS 2026** | ~Jun–Jul 2026 | TBD | Per-workshop deadlines; check individual CFPs |
+| 3 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 55 | Confirmed; Lightweight Edge Adaptive Foundation Models |
 
 ### Conferences Happening Soon
 - **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(15 days away)*
@@ -119,6 +119,7 @@
 | Jul | 🔵 Future | [COLM 2026 Workshops](https://colmweb.org) | ~Jul 2026 | ~Oct 6, 2026 | San Francisco, CA | |
 | Jul | 🔵 Future | [EMNLP 2026 Workshops](https://2026.emnlp.org) | ~Jul 2026 | ~Oct 23, 2026 | Budapest, Hungary | |
 | Aug | 🔵 Future | [CoRL 2026 Workshops](https://www.corl.org) | ~Aug 2026 | ~Nov 9, 2026 | Austin, TX | |
+| Aug | 🟡 Upcoming | [WS4 LEAF @ MILCOM 2026](https://milcom2026.ieee-milcom.org/ieee-milcom-2026-211/pages/ws4-leaf-lightweight-edge-adaptive-foundation-models-intelligence-and) | Aug 16, 2026 | ~Oct 12–16, 2026 | Washington DC area | Lightweight Edge Adaptive Foundation Models; individual workshop; Notif. Sep 13 |
 | Sep | 🔵 Future | [NeurIPS 2026 Workshops](https://neurips.cc/Conferences/2026) | ~Sep 2026 | ~Dec 6, 2026 | Sydney, Australia | |
 | Oct | 🔴 Closed | [AAAI 2026 Workshops](https://aaai.org/conference/aaai/aaai-26/) | ~Oct 2025 | Jan 20–21, 2026 | Singapore | |
 
