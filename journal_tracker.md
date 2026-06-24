@@ -1,10 +1,10 @@
 # Journal Tracker
 
-> **Last updated:** `2026-06-17`
+> **Last updated:** `2026-06-23`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents · Robotics
 >
-> ⚠️ **JCR 2026 released Jun 17, 2026** — IF (2025) values are now available. Verify and update all impact factors from [Clarivate JCR](https://clarivate.com/academia-government/scientific-and-academic-research/research-analytics-evaluation-and-citation/journal-citation-reports/). Column headers below still reflect IF (2024) until values are manually confirmed.
+> ✅ **JCR 2026 released Jun 17, 2026** — IF (2025) column updated from secondary sources (journalmetrics.org citing JCR data). Values marked without `~` are well-confirmed; verify exact figures from [Clarivate JCR](https://clarivate.com/academia-government/scientific-and-academic-research/research-analytics-evaluation-and-citation/journal-citation-reports/) via institutional access. Several journals show significant IF drops vs. prior cycle — consistent with Clarivate's methodology changes (retracted-article citation exclusion, expanded journal coverage).
 
 ---
 
@@ -12,16 +12,16 @@
 
 Journals highlighted in the original tracker as primary submission targets.
 
-| Journal | Category | IF (2024) | APC (USD) |
+| Journal | Category | IF (2025) | APC (USD) |
 |---------|----------|-----------|-----------|
-| [**JMLR**](https://jmlr.org) | General ML | 6.74 | $0 |
+| [**JMLR**](https://jmlr.org) | General ML | 5.2 | $0 |
 | [**TMLR**](https://jmlr.org/tmlr) | General ML | — *(new)* | $0 |
 | [**TACL**](https://transacl.org) | NLP / LLM | 6.9 | $0 |
 | [**CL**](https://cljournal.org) | NLP / LLM | 5.3 | $0 |
 | [**JAIR**](https://www.jair.org) | General AI | 4.0–5.9 | $0 |
 | [**ACM TOPML**](https://dl.acm.org/journal/topml) | UQ / Probabilistic ML | — *(new)* | $1,800 (~$350 in 2026) |
-| [**ACM TIST**](https://dl.acm.org/journal/tist) | Applied / Systems AI | 7.67 | $1,800 (~$350 in 2026) |
-| [**Neurocomputing**](https://www.sciencedirect.com/journal/neurocomputing) | Applied ML | 8.18 | ~$2,930 |
+| [**ACM TIST**](https://dl.acm.org/journal/tist) | Applied / Systems AI | 6.6 | $1,800 (~$350 in 2026) |
+| [**Neurocomputing**](https://www.sciencedirect.com/journal/neurocomputing) | Applied ML | 6.7 | ~$2,930 |
 | [**Neural Computation**](https://direct.mit.edu/neco) | ML Theory | 2.1–2.7 | $0 |
 
 
@@ -33,31 +33,31 @@ Journals highlighted in the original tracker as primary submission targets.
 
 ### Premier General ML & AI
 
-| Journal | Publisher | IF (2024) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
+| Journal | Publisher | IF (2025) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
 |---------|-----------|:---------:|:---:|:--:|:---------:|:---------:|----------|-------|
 | [**Nature Machine Intelligence**](https://www.nature.com/natmachintell) | Springer Nature | **23.9** | 5.88 | 94 | 16.3 | ~$12,850 | SCIE, Scopus | Highest prestige. Broad scientific impact, AI for Science. Expensive. |
-| [**TPAMI**](https://www.computer.org/csdl/journal/tp) | IEEE | **21.19** | 3.91 | 435 | 36.6 | $2,800 | SCIE, Scopus | Top for Vision + ML. Archival home of CVPR/ICCV/NeurIPS extended work. Extremely high novelty bar. |
-| [**JMLR**](https://jmlr.org) ⭐ | Microtome/MIT | **6.74** | 2.02 | 280 | 7.5 | $0 | SCIE, Scopus | Gold standard for methodological ML. Rigorous, competitive. Free and prestigious. |
-| [**AIJ**](https://www.sciencedirect.com/journal/artificial-intelligence) | Elsevier | **6.09** | 1.84 | 174 | 4.6 | ~$4,050 | SCIE, Scopus | Historical home of symbolic AI, reasoning, planning. Growing focus on neuro-symbolic + agents. |
+| [**TPAMI**](https://www.computer.org/csdl/journal/tp) | IEEE | **20.4** | 3.91 | 435 | 36.6 | $2,800 | SCIE, Scopus | Top for Vision + ML. Archival home of CVPR/ICCV/NeurIPS extended work. Extremely high novelty bar. |
+| [**JMLR**](https://jmlr.org) ⭐ | Microtome/MIT | **5.2** | 2.02 | 280 | 7.5 | $0 | SCIE, Scopus | Gold standard for methodological ML. Rigorous, competitive. Free and prestigious. |
+| [**AIJ**](https://www.sciencedirect.com/journal/artificial-intelligence) | Elsevier | **4.7** | 1.84 | 174 | 4.6 | ~$4,050 | SCIE, Scopus | Historical home of symbolic AI, reasoning, planning. Growing focus on neuro-symbolic + agents. |
 | [**TMLR**](https://jmlr.org/tmlr) ⭐ | MLR Press | — | — | — | — | $0 | Scopus *(Jan 2025)* | Correctness + reproducibility over significance. Faster turnaround than JMLR. Excellent for LLM, UQ, solid ML. |
 
 ### NLP & Large Language Models
 
-| Journal | Publisher | IF (2024) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
+| Journal | Publisher | IF (2025) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
 |---------|-----------|:---------:|:---:|:--:|:---------:|:---------:|----------|-------|
 | [**TACL**](https://transacl.org) ⭐ | MIT Press / ACL | **6.9** | 1.82 | 96 | — | $0 | SCIE, Scopus | Hybrid journal+conf model — accepted papers can present at ACL/EMNLP. High bar; highly respected. |
 | [**CL**](https://cljournal.org) ⭐ | MIT Press / ACL | **5.3** | 1.15 | 118 | 6.8 | $0 | SCIE, Scopus | Longest-running premier NLP journal. Deep linguistic analysis and theoretical LLM properties. |
 
 ### Computer Vision & VLM
 
-| Journal | Publisher | IF (2024) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
+| Journal | Publisher | IF (2025) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
 |---------|-----------|:---------:|:---:|:--:|:---------:|:---------:|----------|-------|
-| [**TIP**](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing) | IEEE | **13.32** | 2.50 | 346 | — | $2,800 | SCIE, Scopus | Signal-processing + vision. Excellent for low-level vision, image restoration, VLM tokenization. |
+| [**TIP**](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing) | IEEE | **13.7** | 2.50 | 346 | — | $2,800 | SCIE, Scopus | Signal-processing + vision. Excellent for low-level vision, image restoration, VLM tokenization. |
 | [**IJCV**](https://link.springer.com/journal/11263) | Springer | **12.79** | 3.14 | 209 | 16.8 | ~$4,090 | SCIE, Scopus | Top pure-CV venue alongside TPAMI. Strong on mathematical depth in vision and VLM foundations. |
 
 ### AI Agents & Robotics
 
-| Journal | Publisher | IF (2024) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
+| Journal | Publisher | IF (2025) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
 |---------|-----------|:---------:|:---:|:--:|:---------:|:---------:|----------|-------|
 | [**T-RO**](https://www.ieee-ras.org/publications/t-ro) | IEEE | **10.5–12.2** | — | — | — | $2,645 | SCIE, Scopus | Premier robotics journal. Physical embodiment + rigorous control theory. |
 | [**RA-L**](https://www.ieee-ras.org/publications/ra-l) | IEEE | **5.3** | — | — | — | $2,645 | SCIE, Scopus | Letters format (6 pages). Accepted papers can present at ICRA, IROS, CASE (within 270 days) — standard pathway for conference-visible robotics work. Fast: ~4 months to decision. Q1. |
@@ -65,7 +65,7 @@ Journals highlighted in the original tracker as primary submission targets.
 
 ### Uncertainty Quantification & Data-Centric AI
 
-| Journal | Publisher | IF (2024) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
+| Journal | Publisher | IF (2025) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
 |---------|-----------|:---------:|:---:|:--:|:---------:|:---------:|----------|-------|
 | [**ACM TOPML**](https://dl.acm.org/journal/topml) ⭐ | ACM | — *(new)* | — | — | — | $1,800 (~$350 in 2026) | ACM DL | New (est. 2024). Probabilistic ML, decision-making under uncertainty. **Perfect match for UQ research.** ACM fully Gold OA since Jan 2026; APC subsidized to ~$350 in 2026. Free at 2,600+ ACM Open institutions. |
 | [**IJAR**](https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning) | Elsevier | **3.44** | 0.73 | 116 | 7.6 | ~$3,190 | SCIE, Scopus | Imprecise probability, Dempster-Shafer theory, fuzzy sets. Relevant for OOD detection. |
@@ -74,12 +74,12 @@ Journals highlighted in the original tracker as primary submission targets.
 
 ### Applied & Systems AI
 
-| Journal | Publisher | IF (2024) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
+| Journal | Publisher | IF (2025) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
 |---------|-----------|:---------:|:---:|:--:|:---------:|:---------:|----------|-------|
-| [**TNNLS**](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | IEEE | **13.72** | 3.69 | 234 | 20.8 | $2,800 | SCIE, Scopus | High-volume, high-impact. NN architectures + engineering improvements. Good for "hard" engineering contributions. |
-| [**EAAI**](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | Elsevier | **10.23** | 1.65 | 149 | — | $3,040 | SCIE, Scopus | Applied intelligent systems, robotics, engineering AI. Practical + interdisciplinary papers. |
-| [**ACM TIST**](https://dl.acm.org/journal/tist) ⭐ | ACM | **7.67** | — | — | — | $1,800 (~$350 in 2026) | Scopus, ACM DL | Intelligent systems, recommender systems, spatial AI. ACM fully Gold OA since Jan 2026; APC subsidized to ~$350 in 2026. Free at 2,600+ ACM Open institutions. |
-| [**Neurocomputing**](https://www.sciencedirect.com/journal/neurocomputing) ⭐ | Elsevier | **8.18** | 1.47 | 216 | 13.6 | ~$2,930 | SCIE, Scopus | High acceptance rate, fast turnaround. Applied neural modeling + incremental improvements. CiteScore 13.6. |
+| [**TNNLS**](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | IEEE | **9.7** | 3.69 | 234 | 20.8 | $2,800 | SCIE, Scopus | High-volume, high-impact. NN architectures + engineering improvements. Good for "hard" engineering contributions. |
+| [**EAAI**](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) | Elsevier | **8.0** | 1.65 | 149 | — | $3,040 | SCIE, Scopus | Applied intelligent systems, robotics, engineering AI. Practical + interdisciplinary papers. |
+| [**ACM TIST**](https://dl.acm.org/journal/tist) ⭐ | ACM | **6.6** | — | — | — | $1,800 (~$350 in 2026) | Scopus, ACM DL | Intelligent systems, recommender systems, spatial AI. ACM fully Gold OA since Jan 2026; APC subsidized to ~$350 in 2026. Free at 2,600+ ACM Open institutions. |
+| [**Neurocomputing**](https://www.sciencedirect.com/journal/neurocomputing) ⭐ | Elsevier | **6.7** | 1.47 | 216 | 13.6 | ~$2,930 | SCIE, Scopus | High acceptance rate, fast turnaround. Applied neural modeling + incremental improvements. CiteScore 13.6. |
 | [**JAIR**](https://www.jair.org) ⭐ | AI Access Foundation | **4.0–5.9** | 2.0 | 143 | — | $0 | SCIE, Scopus | General AI (search, planning, KR). ~11% acceptance rate overall. Transparent editorial process. |
 | [**Neural Computation**](https://direct.mit.edu/neco) ⭐ | MIT Press | **2.1–2.7** | 0.83 | 37 | — | $0 | SCIE, Scopus | Theoretical neural computing + computational neuroscience. Free to publish. Long review times. |
 | [**MLWA**](https://www.sciencedirect.com/journal/machine-learning-with-applications) | Elsevier | **4.9** | — | 23 | — | $2,460 | Scopus | Purely applied ML. Good fallback if top-tier theory journals reject. Newer journal (~2020). |

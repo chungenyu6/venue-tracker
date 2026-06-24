@@ -1,6 +1,6 @@
 # Fellowship & Award Tracker
 
-> **Last updated:** `2026-06-17`
+> **Last updated:** `2026-06-23`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents
 >
@@ -10,17 +10,17 @@
 
 ## ⚡ Upcoming Deadlines (Next 90 Days)
 
-Window: Jun 17 – Sep 15, 2026
+Window: Jun 23 – Sep 21, 2026
 
 | Fellowship | ~Deadline | ~Days Away | Action Needed |
 |-----------|----------|-----------|---------------|
-| [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | ~Aug 31, 2026 | ~75 days | Faculty advisor must nominate — confirm with advisor in July |
-| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~80 days | University nominates ≤5 — confirm UF internal deadline with grad school (typically 2–3 weeks before Apple's date) |
-| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~90 days | Self-apply — no nomination needed; start drafting GPU/VLM research pitch now |
+| [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | ~Aug 31, 2026 | ~69 days | Faculty advisor must nominate — confirm with advisor in July |
+| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~74 days | University nominates ≤5 — confirm UF internal deadline with grad school (typically 2–3 weeks before Apple's date) |
+| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~84 days | Self-apply — no nomination needed; start drafting GPU/VLM research pitch now |
+| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~89 days | Applications open Aug 3 — no nomination needed; draft research statement now; ref letters due Oct 6 |
 
 **On the horizon (beyond 90 days):**
-- **Anthropic Fellows** — rolling applications open now for late Sep 2026 / Oct 2026 cohort and beyond. Self-apply at alignment.anthropic.com.
-- **Meta Research PhD Fellowship** — opens **Aug 3**, deadline Sep 20 (~95 days). No nomination needed. Start drafting research statement now.
+- **Anthropic Fellows** — rolling applications open for late Sep 2026 / Oct 2026 cohort and beyond. Self-apply at alignment.anthropic.com. The Apr 26 (May cohort) and Jul 20 (Jul cohort) deadlines have passed; next rolling cohort ~Sep 2026+.
 
 ---
 

@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-06-22`
+> **Last updated:** `2026-06-23`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,9 +11,9 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **WACV 2027** | Jun 19, 2026 (R1 abstract) | 2 | Abstract |
-| 2 | **WACV 2027** | Jun 26, 2026 (R1) | 9 | Full Paper |
-| 3 | **AAAI 2027** | Jul 21, 2026 | 34 | Abstract |
+| 1 | **WACV 2027** | Jun 26, 2026 (R1) | 3 | Full Paper |
+| 2 | **AAAI 2027** | Jul 21, 2026 | 28 | Abstract |
+| 3 | **AAAI 2027** | Jul 28, 2026 | 35 | Full Paper |
 
 ### Next 3 Submission Deadlines — Workshops
 
@@ -21,12 +21,12 @@
 |---|-----------|----------|-----------|-------|
 | 1 | **ECCV 2026** | ~Jun 2026 | TBD | ~Jun 2026 expected; check individual CFPs |
 | 2 | **ECML-PKDD 2026** | ~Jun 2026 | TBD | Per-workshop deadlines; check individual CFPs |
-| 3 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 55 | Confirmed; Lightweight Edge Adaptive Foundation Models |
+| 3 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 54 | Confirmed; Lightweight Edge Adaptive Foundation Models |
 
 ### Conferences Happening Soon
-- **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(15 days away)*
-- **ICML 2026** → Jul 6–11, 2026 · Seoul, Korea *(19 days away)*
-- **RSS 2026** → Jul 13–17, 2026 · Sydney, Australia *(26 days away)*
+- **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(9 days away)*
+- **ICML 2026** → Jul 6–11, 2026 · Seoul, Korea *(13 days away)*
+- **RSS 2026** → Jul 13–17, 2026 · Sydney, Australia *(20 days away)*
 
 
 ## 📋 Full Conference Table
