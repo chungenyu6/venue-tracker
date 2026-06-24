@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-06-23`
+> **Last updated:** `2026-06-24`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
