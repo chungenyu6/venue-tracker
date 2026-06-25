@@ -54,12 +54,14 @@ Journals highlighted in the original tracker as primary submission targets.
 |---------|-----------|:---------:|:---:|:--:|:---------:|:---------:|----------|-------|
 | [**TIP**](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing) | IEEE | **13.7** | 2.50 | 346 | — | $2,800 | SCIE, Scopus | Signal-processing + vision. Excellent for low-level vision, image restoration, VLM tokenization. |
 | [**IJCV**](https://link.springer.com/journal/11263) | Springer | **12.79** | 3.14 | 209 | 16.8 | ~$4,090 | SCIE, Scopus | Top pure-CV venue alongside TPAMI. Strong on mathematical depth in vision and VLM foundations. |
+| [**TGRS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) | IEEE | **~7.5** | — | — | — | $2,800 | SCIE, Scopus | Premier remote sensing journal. Strong for satellite imagery, SAR, hyperspectral + vision/ML methods. Highly relevant if work touches geospatial or remote sensing data. |
 
 ### AI Agents & Robotics
 
 | Journal | Publisher | IF (2025) | SJR | h5 | CiteScore | APC (USD) | Indexing | Notes |
 |---------|-----------|:---------:|:---:|:--:|:---------:|:---------:|----------|-------|
 | [**T-RO**](https://www.ieee-ras.org/publications/t-ro) | IEEE | **10.5–12.2** | — | — | — | $2,645 | SCIE, Scopus | Premier robotics journal. Physical embodiment + rigorous control theory. |
+| [**IJRR**](https://journals.sagepub.com/home/ijr) | SAGE | **~9.0** | — | — | — | ~$3,000 | SCIE, Scopus | Top robotics journal alongside T-RO. Known for comprehensive, methods-driven papers. Strong for manipulation, planning, and robot learning. Longer form than RA-L; no conference presentation option. |
 | [**RA-L**](https://www.ieee-ras.org/publications/ra-l) | IEEE | **5.3** | — | — | — | $2,645 | SCIE, Scopus | Letters format (6 pages). Accepted papers can present at ICRA, IROS, CASE (within 270 days) — standard pathway for conference-visible robotics work. Fast: ~4 months to decision. Q1. |
 | [**JAAMAS**](https://link.springer.com/journal/10458) | Springer | **2.6** | 1.5 | 80 | — | ~$2,500–3,500 | SCIE, Scopus | Core AAMAS community journal. Game theory, MARL, multi-agent architectures. |
 
@@ -100,7 +102,9 @@ Journals highlighted in the original tracker as primary submission targets.
 | CL | — | ✓✓ | — | — | — | — |
 | IJCV | ✓✓ | — | — | — | — | — |
 | TIP | ✓✓ | — | — | — | — | — |
+| TGRS | ✓✓ | — | — | — | — | — |
 | T-RO | — | — | — | ✓✓ | — | — |
+| IJRR | — | — | — | ✓✓ | — | — |
 | RA-L | ✓ | — | — | ✓✓ | — | — |
 | JAAMAS | — | — | — | — | — | ✓✓ |
 | ACM TOPML | — | — | ✓✓ | — | ✓ | — |
