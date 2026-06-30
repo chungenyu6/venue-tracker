@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-06-24`
+> **Last updated:** `2026-06-30`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,22 +11,22 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **WACV 2027** | Jun 26, 2026 (R1) | 2 | Full Paper |
-| 2 | **AAAI 2027** | Jul 21, 2026 | 27 | Abstract |
-| 3 | **AAAI 2027** | Jul 28, 2026 | 34 | Full Paper |
+| 1 | **AAAI 2027** | Jul 21, 2026 | 21 | Abstract |
+| 2 | **AAAI 2027** | Jul 28, 2026 | 28 | Full Paper |
+| 3 | **EACL 2027** | Aug 3, 2026 | 34 | Full Paper |
 
 ### Next 3 Submission Deadlines — Workshops
 
 | # | Workshop @ | Deadline | Days Left | Notes |
 |---|-----------|----------|-----------|-------|
-| 1 | **ECCV 2026** | ~Jun 2026 | TBD | ~Jun 2026 expected; check individual CFPs |
-| 2 | **ECML-PKDD 2026** | ~Jun 2026 | TBD | Per-workshop deadlines; check individual CFPs |
-| 3 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 53 | Confirmed; Lightweight Edge Adaptive Foundation Models |
+| 1 | **ECCV 2026** | ~Jul 2, 2026 | ~2 | Jul 2–10 range confirmed for individual workshops; check CFPs |
+| 2 | **EMNLP 2026** | ~Jul 2026 | TBD | ~Jul 2026 expected; check individual CFPs |
+| 3 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 47 | Confirmed; Lightweight Edge Adaptive Foundation Models |
 
 ### Conferences Happening Soon
-- **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(8 days away)*
-- **ICML 2026** → Jul 6–11, 2026 · Seoul, Korea *(12 days away)*
-- **RSS 2026** → Jul 13–17, 2026 · Sydney, Australia *(19 days away)*
+- **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(2 days away)*
+- **ICML 2026** → Jul 6–11, 2026 · Seoul, Korea *(6 days away)*
+- **RSS 2026** → Jul 13–17, 2026 · Sydney, Australia *(13 days away)*
 
 
 ## 📋 Full Conference Table
@@ -112,11 +112,11 @@
 | Apr | 🔴 Closed | [ACL 2026 Workshops](https://2026.aclweb.org) | ~Mar 5, 2026 (direct) / Mar 24, 2026 (ARR) | ~Jul 2, 2026 | San Diego, CA | Joint EACL/ACL 2026 workshop call |
 | Apr | 🔴 Closed | [KDD 2026 Workshops](https://kdd2026.kdd.org) | ~Apr–May 2026 | ~Aug 9, 2026 | Jeju, Korea | |
 | May | 🔴 Closed | [IJCAI 2026 Workshops](https://2026.ijcai.org) | ~May–Jun 2026 | Aug 15–17, 2026 | Bremen, Germany | Per-workshop deadlines; check individual CFPs |
-| Jun | 🔵 Future | [ECCV 2026 Workshops](https://eccv.ecva.net/Conferences/2026/CallForWorkshops) | ~Jun 2026 | ~Sep 8, 2026 | Malmö, Sweden | |
-| Jun | 🔵 Future | [ECML-PKDD 2026 Workshops](https://ecmlpkdd.org/2026/) | ~Jun 2026 | ~Sep 7, 2026 | Naples, Italy | |
+| Jul | 🟡 Upcoming | [ECCV 2026 Workshops](https://eccv.ecva.net/Conferences/2026/CallForWorkshops) | ~Jul 2026 | ~Sep 8, 2026 | Malmö, Sweden | Individual deadlines Jul 2–10 confirmed; check workshop CFPs |
+| Jun | 🔴 Closed | [ECML-PKDD 2026 Workshops](https://ecmlpkdd.org/2026/) | ~Jun 2026 | ~Sep 7, 2026 | Naples, Italy | Approximate Jun deadline now passed |
 | Jun | 🔴 Closed | [RSS 2026 Workshops](https://roboticsconference.org) | ~May–Jun 2026 | ~Jul 13, 2026 | Sydney, Australia | Per-workshop deadlines varied; last noted open deadline was Jun 8 |
 | Jun | 🔵 Future | [IROS 2026 Workshops](https://2026.ieee-iros.org) | ~Jun–Jul 2026 | ~Sep 27, 2026 | Pittsburgh, PA | Per-workshop deadlines; check individual CFPs |
-| Jul | 🔵 Future | [COLM 2026 Workshops](https://colmweb.org) | ~Jul 2026 | ~Oct 6, 2026 | San Francisco, CA | |
+| Jun | 🔴 Closed | [COLM 2026 Workshops](https://colmweb.org) | ~Jun 23, 2026 | ~Oct 9, 2026 | San Francisco, CA | Suggested deadline was Jun 23, 2026; notification Jul 24, 2026 |
 | Jul | 🔵 Future | [EMNLP 2026 Workshops](https://2026.emnlp.org) | ~Jul 2026 | ~Oct 23, 2026 | Budapest, Hungary | |
 | Aug | 🔵 Future | [CoRL 2026 Workshops](https://www.corl.org) | ~Aug 2026 | ~Nov 9, 2026 | Austin, TX | |
 | Aug | 🟡 Upcoming | [WS4 LEAF @ MILCOM 2026](https://milcom2026.ieee-milcom.org/ieee-milcom-2026-211/pages/ws4-leaf-lightweight-edge-adaptive-foundation-models-intelligence-and) | Aug 16, 2026 | ~Oct 12–16, 2026 | Washington DC area | Lightweight Edge Adaptive Foundation Models; individual workshop; Notif. Sep 13 |
