@@ -1,6 +1,6 @@
 # Fellowship & Award Tracker
 
-> **Last updated:** `2026-06-30`
+> **Last updated:** `2026-07-07`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents
 >
@@ -10,17 +10,19 @@
 
 ## ⚡ Upcoming Deadlines (Next 90 Days)
 
-Window: Jun 30 – Sep 28, 2026
+Window: Jul 7 – Oct 5, 2026
 
 | Fellowship | ~Deadline | ~Days Away | Action Needed |
 |-----------|----------|-----------|---------------|
-| [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | ~Aug 31, 2026 | ~62 days | Faculty advisor must nominate — confirm with advisor in July |
-| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~67 days | University nominates ≤5 — confirm UF internal deadline with grad school (typically 2–3 weeks before Apple's date) |
-| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~77 days | Self-apply — no nomination needed; start drafting GPU/VLM research pitch now |
-| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~82 days | Applications open Aug 3 — no nomination needed; draft research statement now; ref letters due Oct 6 |
+| [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | ~Aug 31, 2026 | ~55 days | Faculty advisor must nominate — confirm with advisor in July |
+| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~60 days | University nominates ≤5 — confirm UF internal deadline with grad school (typically 2–3 weeks before Apple's date) |
+| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~70 days | Self-apply — no nomination needed; start drafting GPU/VLM research pitch now |
+| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~75 days | Applications open Aug 3 — no nomination needed; draft research statement now; ref letters due Oct 6 |
 
 **On the horizon (beyond 90 days):**
-- **Anthropic Fellows** — rolling applications open for late Sep 2026 / Oct 2026 cohort and beyond. Self-apply at alignment.anthropic.com. The Apr 26 (May cohort) and Jul 20 (Jul cohort) deadlines have passed; next rolling cohort ~Sep 2026+.
+- **Anthropic Fellows** — rolling applications open for late Sep 2026 cohort and beyond (checked Jul 7: no fixed deadline posted yet). Self-apply at alignment.anthropic.com. The Apr 26 (May cohort) and Jul 20 (Jul cohort) deadlines have passed.
+- **OpenAI Safety Fellowship** — 2026 cycle closed May 3 (program runs Sep 14, 2026 – Feb 5, 2027); next cycle expected ~May 2027.
+- **Open Phil AI Fellowship** (~Oct, varies) and **Hertz** (~Late Oct) — verify exact dates in early September.
 
 ---
 
