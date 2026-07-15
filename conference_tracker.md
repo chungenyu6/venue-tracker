@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-07-07`
+> **Last updated:** `2026-07-15`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,22 +11,22 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **KDD 2027** (Cycle 1) | Jul 19, 2026 | 12 | Abstract |
-| 2 | **AAAI 2027** | Jul 21, 2026 | 14 | Abstract |
-| 3 | **KDD 2027** (Cycle 1) | Jul 26, 2026 | 19 | Full Paper |
+| 1 | **KDD 2027** (Cycle 1) | Jul 19, 2026 | 4 | Abstract |
+| 2 | **AAAI 2027** | Jul 21, 2026 | 6 | Abstract |
+| 3 | **KDD 2027** (Cycle 1) | Jul 26, 2026 | 11 | Full Paper |
 
 ### Next 3 Submission Deadlines — Workshops
 
 | # | Workshop @ | Deadline | Days Left | Notes |
 |---|-----------|----------|-----------|-------|
-| 1 | **ECCV 2026** | ~Jul 7–10, 2026 | ~0–3 | Jul 2–10 range; earliest deadlines passed — check remaining CFPs now |
-| 2 | **EMNLP 2026** | ~Jul 2026 | TBD | ~Jul 2026 expected; check individual CFPs |
-| 3 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 40 | Confirmed; Lightweight Edge Adaptive Foundation Models |
+| 1 | **EMNLP 2026** | ~Jul 2026 | TBD | ~Jul 2026 expected; check individual CFPs |
+| 2 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 32 | Confirmed; Lightweight Edge Adaptive Foundation Models |
+| 3 | **CoRL 2026** | ~Aug 2026 | TBD | ~Aug 2026 expected; check individual CFPs |
 
 ### Conferences Happening Soon
-- **ACL 2026** → Jul 2–7, 2026 · San Diego, CA *(ongoing — ends today)*
-- **ICML 2026** → Jul 6–11, 2026 · Seoul, Korea *(ongoing — ends Jul 11)*
-- **RSS 2026** → Jul 13–17, 2026 · Sydney, Australia *(6 days away)*
+- **RSS 2026** → Jul 13–17, 2026 · Sydney, Australia *(ongoing — ends Jul 17)*
+- **KDD 2026** → Aug 9–13, 2026 · Jeju, Korea *(25 days away)*
+- **IJCAI 2026** → Aug 15–21, 2026 · Bremen, Germany *(31 days away)*
 
 
 ## 📋 Full Conference Table
@@ -112,7 +112,7 @@
 | Apr | 🔴 Closed | [ACL 2026 Workshops](https://2026.aclweb.org) | ~Mar 5, 2026 (direct) / Mar 24, 2026 (ARR) | ~Jul 2, 2026 | San Diego, CA | Joint EACL/ACL 2026 workshop call |
 | Apr | 🔴 Closed | [KDD 2026 Workshops](https://kdd2026.kdd.org) | ~Apr–May 2026 | ~Aug 9, 2026 | Jeju, Korea | |
 | May | 🔴 Closed | [IJCAI 2026 Workshops](https://2026.ijcai.org) | ~May–Jun 2026 | Aug 15–17, 2026 | Bremen, Germany | Per-workshop deadlines; check individual CFPs |
-| Jul | 🟡 Upcoming | [ECCV 2026 Workshops](https://eccv.ecva.net/Conferences/2026/CallForWorkshops) | ~Jul 2026 | ~Sep 8, 2026 | Malmö, Sweden | Individual deadlines Jul 2–10 confirmed; check workshop CFPs |
+| Jul | 🔴 Closed | [ECCV 2026 Workshops](https://eccv.ecva.net/Conferences/2026/CallForWorkshops) | ~Jul 2026 | ~Sep 8, 2026 | Malmö, Sweden | Individual deadlines Jul 2–10 now passed |
 | Jun | 🔴 Closed | [ECML-PKDD 2026 Workshops](https://ecmlpkdd.org/2026/) | ~Jun 2026 | ~Sep 7, 2026 | Naples, Italy | Approximate Jun deadline now passed |
 | Jun | 🔴 Closed | [RSS 2026 Workshops](https://roboticsconference.org) | ~May–Jun 2026 | ~Jul 13, 2026 | Sydney, Australia | Per-workshop deadlines varied; last noted open deadline was Jun 8 |
 | Jun | 🔵 Future | [IROS 2026 Workshops](https://2026.ieee-iros.org) | ~Jun–Jul 2026 | ~Sep 27, 2026 | Pittsburgh, PA | Per-workshop deadlines; check individual CFPs |
