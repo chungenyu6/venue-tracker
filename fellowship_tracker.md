@@ -1,6 +1,6 @@
 # Fellowship & Award Tracker
 
-> **Last updated:** `2026-07-15`
+> **Last updated:** `2026-07-21`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents
 >
@@ -10,15 +10,15 @@
 
 ## ⚡ Upcoming Deadlines (Next 90 Days)
 
-Window: Jul 15 – Oct 13, 2026
+Window: Jul 21 – Oct 19, 2026
 
 | Fellowship | ~Deadline | ~Days Away | Action Needed |
 |-----------|----------|-----------|---------------|
-| [**Anthropic Fellows Program**](https://job-boards.greenhouse.io/anthropic/jobs/5023394008) | Jul 26, 2026 (11:59pm PT) | ~11 days | Self-apply — next cohort starts Nov 2, 2026; confirmed on official Greenhouse posting Jul 15 — apply now if interested |
-| [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | ~Aug 31, 2026 | ~47 days | Faculty advisor must nominate — confirm with advisor in July |
-| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~50 days | University nominates ≤5 — confirm UF internal deadline with grad school (typically 2–3 weeks before Apple's date) |
-| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~62 days | Self-apply — no nomination needed; start drafting GPU/VLM research pitch now |
-| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~67 days | Applications open Aug 3 — no nomination needed; draft research statement now; ref letters due Oct 6 |
+| [**Anthropic Fellows Program**](https://job-boards.greenhouse.io/anthropic/jobs/5023394008) | Jul 26, 2026 (11:59pm PT) | ~5 days | Self-apply — next cohort starts Nov 2, 2026; confirmed on official Greenhouse posting — **closing soon, apply now if interested** |
+| [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | ~Aug 31, 2026 | ~41 days | Faculty advisor must nominate — confirm with advisor in July |
+| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~45 days | University nominates ≤5 — confirm UF internal deadline with grad school (typically 2–3 weeks before Apple's date) |
+| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~56 days | Self-apply — no nomination needed; start drafting GPU/VLM research pitch now |
+| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~61 days | Applications open Aug 3 — no nomination needed; draft research statement now; ref letters due Oct 6 |
 
 **On the horizon (beyond 90 days):**
 - **OpenAI Safety Fellowship** — 2026 cycle closed May 3 (program runs Sep 14, 2026 – Feb 5, 2027); next cycle expected ~May 2027.

@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-07-15`
+> **Last updated:** `2026-07-21`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,22 +11,22 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **KDD 2027** (Cycle 1) | Jul 19, 2026 | 4 | Abstract |
-| 2 | **AAAI 2027** | Jul 21, 2026 | 6 | Abstract |
-| 3 | **KDD 2027** (Cycle 1) | Jul 26, 2026 | 11 | Full Paper |
+| 1 | **AAAI 2027** | Jul 21, 2026 | 0 (today) | Abstract |
+| 2 | **KDD 2027** (Cycle 1) | Jul 26, 2026 | 5 | Full Paper |
+| 3 | **AAAI 2027** | Jul 28, 2026 | 7 | Full Paper |
 
 ### Next 3 Submission Deadlines — Workshops
 
 | # | Workshop @ | Deadline | Days Left | Notes |
 |---|-----------|----------|-----------|-------|
 | 1 | **EMNLP 2026** | ~Jul 2026 | TBD | ~Jul 2026 expected; check individual CFPs |
-| 2 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 32 | Confirmed; Lightweight Edge Adaptive Foundation Models |
+| 2 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 26 | Confirmed; Lightweight Edge Adaptive Foundation Models |
 | 3 | **CoRL 2026** | ~Aug 2026 | TBD | ~Aug 2026 expected; check individual CFPs |
 
 ### Conferences Happening Soon
-- **RSS 2026** → Jul 13–17, 2026 · Sydney, Australia *(ongoing — ends Jul 17)*
-- **KDD 2026** → Aug 9–13, 2026 · Jeju, Korea *(25 days away)*
-- **IJCAI 2026** → Aug 15–21, 2026 · Bremen, Germany *(31 days away)*
+- **KDD 2026** → Aug 9–13, 2026 · Jeju, Korea *(19 days away)*
+- **IJCAI 2026** → Aug 15–21, 2026 · Bremen, Germany *(25 days away)*
+- **UAI 2026** → Aug 17–21, 2026 · Amsterdam, NL *(27 days away)*
 
 
 ## 📋 Full Conference Table
