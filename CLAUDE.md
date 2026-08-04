@@ -201,13 +201,18 @@ systemctl --user start venue-tracker.service    # run manually now
 journalctl --user -u venue-tracker.service -f   # tail logs
 ```
 
-### How to rotate the PAT (when it expires)
+### Git authentication
 
-The timer authenticates via a GitHub Fine-Grained PAT stored in the systemd service file. When it expires:
+Pushes use **SSH**, not a token:
 
-1. Go to https://github.com/settings/tokens?type=beta → generate new token
-2. Settings: name `venue-tracker-routine`, repo `venue-tracker`, permission **Contents: Read and write**
-3. Open Claude Code in this repo and run:
-   > "Update the venue tracker systemd service's git URL with this new PAT: `<paste token>`"
+- Remote: `git@github.com:chungenyu6/venue-tracker.git`
+- Key: `~/.ssh/id_ed25519` (`SHA256:DtYae9RCVMuUr1qJ074aZNh0T1Se9+eoei0b44vlWCA`)
+- The key has no passphrase, so it works headless — no ssh-agent or keyring session required, which matters because the timer can fire before/without a graphical login.
 
-> **Never commit the PAT to the repo.** It lives inside the systemd service file only.
+Nothing expires and there is no rotation chore. Verify with:
+
+```bash
+ssh -T git@github.com     # expect: Hi chungenyu6! You've successfully authenticated...
+```
+
+> The old GitHub PAT (previously embedded in the service file and the CCR routine) was revoked on 2026-08-04. Do not reintroduce a token into the unit file — it leaks into `systemctl status` output.
