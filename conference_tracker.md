@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-07-21`
+> **Last updated:** `2026-08-04`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,22 +11,22 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **AAAI 2027** | Jul 21, 2026 | 0 (today) | Abstract |
-| 2 | **KDD 2027** (Cycle 1) | Jul 26, 2026 | 5 | Full Paper |
-| 3 | **AAAI 2027** | Jul 28, 2026 | 7 | Full Paper |
+| 1 | **WACV 2027** (Round 2) | Aug 28, 2026 | 24 | Full Paper |
+| 2 | **ICRA 2027** | Sep 15, 2026 | 42 | Full Paper |
+| 3 | **ICLR 2027** | Sep 18, 2026 | 45 | Abstract |
 
 ### Next 3 Submission Deadlines — Workshops
 
 | # | Workshop @ | Deadline | Days Left | Notes |
 |---|-----------|----------|-----------|-------|
-| 1 | **EMNLP 2026** | ~Jul 2026 | TBD | ~Jul 2026 expected; check individual CFPs |
-| 2 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 26 | Confirmed; Lightweight Edge Adaptive Foundation Models |
-| 3 | **CoRL 2026** | ~Aug 2026 | TBD | ~Aug 2026 expected; check individual CFPs |
+| 1 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 12 | Confirmed; Lightweight Edge Adaptive Foundation Models |
+| 2 | **CoRL 2026** | ~Aug 2026 | TBD | ~Aug 2026 expected; check individual CFPs |
+| 3 | **ICRA 2027** | Sep 1, 2026 | 28 | Workshop proposals due |
 
 ### Conferences Happening Soon
-- **KDD 2026** → Aug 9–13, 2026 · Jeju, Korea *(19 days away)*
-- **IJCAI 2026** → Aug 15–21, 2026 · Bremen, Germany *(25 days away)*
-- **UAI 2026** → Aug 17–21, 2026 · Amsterdam, NL *(27 days away)*
+- **KDD 2026** → Aug 9–13, 2026 · Jeju, Korea *(5 days away)*
+- **IJCAI 2026** → Aug 15–21, 2026 · Bremen, Germany *(11 days away)*
+- **UAI 2026** → Aug 17–21, 2026 · Amsterdam, NL *(13 days away)*
 
 
 ## 📋 Full Conference Table
@@ -69,11 +69,11 @@
 
 | Est. Month | Status | Conference | Abstract | Full Paper | Conf Date | Location | Tier | Notes |
 |:----------:|--------|-----------|----------|------------|-----------|----------|:----:|-------|
-| Jun | 🔴 Closed | [**WACV 2027**](https://wacv.thecvf.com/Conferences/2027) | Jun 19, 2026 *(reg.)* | Jun 26, 2026 | Jan 5–9, 2027 | Disney Springs, FL | B | Round 1 closed; Round 2: Aug 28, 2026 |
-| Jul | 🟡 Upcoming | [**AAAI 2027**](https://aaai.org/conference/aaai/aaai-27/) | Jul 21, 2026 | Jul 28, 2026 | Feb 16–23, 2027 | Montréal, Canada | A* | |
-| Aug | 🟡 Upcoming | [**EACL 2027**](https://2027.eacl.org) | — | Aug 3, 2026 (ARR) | Mar 9–14, 2027 | Athens, Greece | A* | Via ARR; commit deadline Oct 11, 2026 |
-| Sep | 🔵 Future | [**ICRA 2027**](https://2027.ieee-icra.org) | — | TBD | May 24–28, 2027 | Seoul, Korea | A* | No abstract deadline historically; workshop proposals due Sep 1, 2026 |
-| Oct | 🔵 Future | [**ICLR 2027**](https://iclr.cc) | TBD | TBD | Apr/May 2027 | West Coast, N. America | A* | Historically ~Oct deadline; region per official Future Meetings page |
+| Jun | 🟡 Upcoming | [**WACV 2027**](https://wacv.thecvf.com/Conferences/2027) | Jun 19, 2026 *(reg.)* | Jun 26, 2026 | Jan 5–9, 2027 | Disney Springs, FL | B | Round 1 closed; Round 2: Aug 28, 2026 |
+| Jul | 🔴 Closed | [**AAAI 2027**](https://aaai.org/conference/aaai/aaai-27/) | Jul 21, 2026 | Jul 28, 2026 | Feb 16–23, 2027 | Montréal, Canada | A* | |
+| Aug | 🔴 Closed | [**EACL 2027**](https://2027.eacl.org) | — | Aug 3, 2026 (ARR) | Mar 9–14, 2027 | Athens, Greece | A* | Via ARR; commit deadline Oct 11, 2026 |
+| Sep | 🟡 Upcoming | [**ICRA 2027**](https://2027.ieee-icra.org) | — | Sep 15, 2026 | May 24–28, 2027 | Seoul, Korea | A* | No abstract deadline; workshop proposals due Sep 1, 2026 |
+| Sep | 🟡 Upcoming | [**ICLR 2027**](https://iclr.cc) | Sep 18, 2026 | Sep 25, 2026 | Apr 26–30, 2027 | TBD | A* | Location TBA per official site |
 | Oct | 🔵 Future | [**AAMAS 2027**](https://www.ifaamas.org) | TBD | TBD | TBD | TBD | A | |
 | Oct | 🔵 Future | [**MLSys 2027**](https://mlsys.org) | — | TBD | TBD | TBD | — | No abstract deadline historically |
 | Nov | 🔵 Future | [**CVPR 2027**](https://cvpr.thecvf.com/Conferences/2027) | — | TBD | Jun 19–26, 2027 | Seattle, WA | A* | No abstract deadline historically |
@@ -81,7 +81,7 @@
 | Jan | 🔵 Future | [**ICML 2027**](https://icml2027.eurac.edu) | TBD | TBD | Jul 2027 | South Tyrol, Italy | A* | |
 | Jan | 🔵 Future | [**IJCAI 2027**](https://ijcai.org) | TBD | TBD | Aug 2027 | TBD | A* | |
 | Jan | 🔵 Future | [**RSS 2027**](https://roboticsconference.org) | TBD | TBD | Jul 2027 | TBD | — | CORE TBR; ~Jan deadline historically |
-| Feb | 🟡 Upcoming | [**KDD 2027**](https://kdd2027.kdd.org) | Jul 19, 2026 | Jul 26, 2026 | Aug 2027 | San Jose, CA | A* | 2 cycles; dates shown = Cycle 1; Cycle 2 ~Feb 2027 TBD |
+| Feb | 🔴 Closed | [**KDD 2027**](https://kdd2027.kdd.org) | Jul 19, 2026 | Jul 26, 2026 | Aug 2027 | San Jose, CA | A* | 2 cycles; Cycle 1 shown (closed); Cycle 2 ~Feb 2027 TBD |
 | Feb | 🔵 Future | [**ACL 2027**](https://aclweb.org) | — | TBD (ARR) | Jul 2027 | TBD | A* | Via ARR |
 | Feb | 🔵 Future | [**UAI 2027**](https://www.auai.org) | TBD | TBD | TBD | TBD | A | |
 | Mar | ⚫ No Edition | [**ECCV 2027**](https://eccv.ecva.net) | — | — | — | — | A* | Even years only; see ECCV 2028 |
