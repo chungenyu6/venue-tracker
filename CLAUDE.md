@@ -182,13 +182,13 @@ docker ps -a
 
 ---
 
-## Automated Daily Tracker Update
+## Automated Weekly Tracker Update
 
-Two complementary systems run the daily update — a local systemd timer (primary) and a remote cloud routine (backup).
+A local systemd timer runs the weekly update. (A remote CCR cloud routine previously served as a backup; it was disabled on 2026-07-28 and removed on 2026-08-04.)
 
-### Primary: Local systemd timer (runs on this machine)
+### Local systemd timer (runs on this machine)
 
-Fires every **Tuesday at 8:00 AM CDT**. If the machine is off at 8am, it runs automatically on next boot (`Persistent=true`).
+Fires every **Sunday at 10:00 PM CDT**. If the machine is off or asleep at 10pm, it runs automatically on next boot/resume (`Persistent=true`). Linger is enabled for the user, so the timer runs whenever the machine is powered on — no login required.
 
 - **Service file:** `~/.config/systemd/user/venue-tracker.service`
 - **Timer file:** `~/.config/systemd/user/venue-tracker.timer`
@@ -201,20 +201,13 @@ systemctl --user start venue-tracker.service    # run manually now
 journalctl --user -u venue-tracker.service -f   # tail logs
 ```
 
-### Backup: Remote CCR routine (runs in Anthropic's cloud)
-
-Runs every **Tuesday at 8:00 AM Chicago time (13:00 UTC)**, independent of whether the laptop is on.
-
-Routine ID: `trig_01NcRBxeGLnDrqxCWnc7aAEF`  
-Manage at: https://claude.ai/code/routines/trig_01NcRBxeGLnDrqxCWnc7aAEF
-
 ### How to rotate the PAT (when it expires)
 
-Both systems authenticate via a GitHub Fine-Grained PAT. When it expires:
+The timer authenticates via a GitHub Fine-Grained PAT stored in the systemd service file. When it expires:
 
 1. Go to https://github.com/settings/tokens?type=beta → generate new token
 2. Settings: name `venue-tracker-routine`, repo `venue-tracker`, permission **Contents: Read and write**
 3. Open Claude Code in this repo and run:
-   > "Update the venue tracker routine's git URL with this new PAT: `<paste token>`"
+   > "Update the venue tracker systemd service's git URL with this new PAT: `<paste token>`"
 
-> **Never commit the PAT to the repo.** It lives inside the routine's `job_config` and the systemd service file only.
+> **Never commit the PAT to the repo.** It lives inside the systemd service file only.
