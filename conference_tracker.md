@@ -1,6 +1,6 @@
 # Conference Tracker
 
-> **Last updated:** `2026-08-04`
+> **Last updated:** `2026-08-10`
 >
 > Focused on: Vision · NLP · UQ · Robotics · General ML
 
@@ -11,22 +11,22 @@
 
 | # | Conference | Deadline | Days Left | Type |
 |---|-----------|----------|-----------|------|
-| 1 | **WACV 2027** (Round 2) | Aug 28, 2026 | 24 | Full Paper |
-| 2 | **ICRA 2027** | Sep 15, 2026 | 42 | Full Paper |
-| 3 | **ICLR 2027** | Sep 18, 2026 | 45 | Abstract |
+| 1 | **WACV 2027** (Round 2) | Aug 28, 2026 | 18 | Full Paper |
+| 2 | **ICRA 2027** | Sep 15, 2026 | 36 | Full Paper |
+| 3 | **ICLR 2027** | Sep 18, 2026 | 39 | Abstract |
 
 ### Next 3 Submission Deadlines — Workshops
 
 | # | Workshop @ | Deadline | Days Left | Notes |
 |---|-----------|----------|-----------|-------|
-| 1 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 12 | Confirmed; Lightweight Edge Adaptive Foundation Models |
-| 2 | **CoRL 2026** | ~Aug 2026 | TBD | ~Aug 2026 expected; check individual CFPs |
-| 3 | **ICRA 2027** | Sep 1, 2026 | 28 | Workshop proposals due |
+| 1 | **WS4 LEAF @ MILCOM 2026** | Aug 16, 2026 | 6 | Confirmed; Lightweight Edge Adaptive Foundation Models |
+| 2 | **NeurIPS 2026 Workshops** | ~Aug 29, 2026 | 19 | Suggested deadline (official); varies per workshop |
+| 3 | **ICRA 2027** | Sep 1, 2026 | 22 | Workshop proposals due |
 
 ### Conferences Happening Soon
-- **KDD 2026** → Aug 9–13, 2026 · Jeju, Korea *(5 days away)*
-- **IJCAI 2026** → Aug 15–21, 2026 · Bremen, Germany *(11 days away)*
-- **UAI 2026** → Aug 17–21, 2026 · Amsterdam, NL *(13 days away)*
+- **KDD 2026** → Aug 9–13, 2026 · Jeju, Korea *(happening now)*
+- **IJCAI 2026** → Aug 15–21, 2026 · Bremen, Germany *(5 days away)*
+- **UAI 2026** → Aug 17–21, 2026 · Amsterdam, NL *(7 days away)*
 
 
 ## 📋 Full Conference Table
@@ -74,7 +74,7 @@
 | Aug | 🔴 Closed | [**EACL 2027**](https://2027.eacl.org) | — | Aug 3, 2026 (ARR) | Mar 9–14, 2027 | Athens, Greece | A* | Via ARR; commit deadline Oct 11, 2026 |
 | Sep | 🟡 Upcoming | [**ICRA 2027**](https://2027.ieee-icra.org) | — | Sep 15, 2026 | May 24–28, 2027 | Seoul, Korea | A* | No abstract deadline; workshop proposals due Sep 1, 2026 |
 | Sep | 🟡 Upcoming | [**ICLR 2027**](https://iclr.cc) | Sep 18, 2026 | Sep 25, 2026 | Apr 26–30, 2027 | TBD | A* | Location TBA per official site |
-| Oct | 🔵 Future | [**AAMAS 2027**](https://www.ifaamas.org) | TBD | TBD | TBD | TBD | A | |
+| Oct | 🔵 Future | [**AAMAS 2027**](https://warwick.ac.uk/fac/sci/dcs/aamas2027/) | TBD | TBD | May 3–7, 2027 | Hanoi, Vietnam | A | Official site: submissions "early Oct 2026 (TBC)"; JW Marriott Hanoi |
 | Oct | 🔵 Future | [**MLSys 2027**](https://mlsys.org) | — | TBD | TBD | TBD | — | No abstract deadline historically |
 | Nov | 🔵 Future | [**CVPR 2027**](https://cvpr.thecvf.com/Conferences/2027) | — | TBD | Jun 19–26, 2027 | Seattle, WA | A* | No abstract deadline historically |
 | Jan | 🔵 Future | [**AISTATS 2027**](https://aistats.org) | TBD | TBD | Apr 2027 | TBD | A | |
@@ -115,12 +115,12 @@
 | Jul | 🔴 Closed | [ECCV 2026 Workshops](https://eccv.ecva.net/Conferences/2026/CallForWorkshops) | ~Jul 2026 | ~Sep 8, 2026 | Malmö, Sweden | Individual deadlines Jul 2–10 now passed |
 | Jun | 🔴 Closed | [ECML-PKDD 2026 Workshops](https://ecmlpkdd.org/2026/) | ~Jun 2026 | ~Sep 7, 2026 | Naples, Italy | Approximate Jun deadline now passed |
 | Jun | 🔴 Closed | [RSS 2026 Workshops](https://roboticsconference.org) | ~May–Jun 2026 | ~Jul 13, 2026 | Sydney, Australia | Per-workshop deadlines varied; last noted open deadline was Jun 8 |
-| Jun | 🔵 Future | [IROS 2026 Workshops](https://2026.ieee-iros.org) | ~Jun–Jul 2026 | ~Sep 27, 2026 | Pittsburgh, PA | Per-workshop deadlines; check individual CFPs |
+| Jun | 🔴 Closed | [IROS 2026 Workshops](https://2026.ieee-iros.org) | ~Jun–Jul 2026 | ~Sep 27, 2026 | Pittsburgh, PA | Approximate Jun–Jul deadlines now passed |
 | Jun | 🔴 Closed | [COLM 2026 Workshops](https://colmweb.org) | ~Jun 23, 2026 | ~Oct 9, 2026 | San Francisco, CA | Suggested deadline was Jun 23, 2026; notification Jul 24, 2026 |
-| Jul | 🔵 Future | [EMNLP 2026 Workshops](https://2026.emnlp.org) | ~Jul 2026 | ~Oct 23, 2026 | Budapest, Hungary | |
-| Aug | 🔵 Future | [CoRL 2026 Workshops](https://www.corl.org) | ~Aug 2026 | ~Nov 9, 2026 | Austin, TX | |
+| Jul | 🔴 Closed | [EMNLP 2026 Workshops](https://2026.emnlp.org) | ~Jul 2026 | ~Oct 23, 2026 | Budapest, Hungary | Approximate Jul deadline now passed |
+| Aug | 🔵 Future | [CoRL 2026 Workshops](https://www.corl.org/contributions/call-for-workshops) | ~Aug–Sep 2026 | Nov 12, 2026 | Austin, TX | Main conf Nov 9–11; workshops/tutorials Nov 12 (half-day); per-workshop CFPs |
 | Aug | 🟡 Upcoming | [WS4 LEAF @ MILCOM 2026](https://milcom2026.ieee-milcom.org/ieee-milcom-2026-211/pages/ws4-leaf-lightweight-edge-adaptive-foundation-models-intelligence-and) | Aug 16, 2026 | ~Oct 12–16, 2026 | Washington DC area | Lightweight Edge Adaptive Foundation Models; individual workshop; Notif. Sep 13 |
-| Sep | 🔵 Future | [NeurIPS 2026 Workshops](https://neurips.cc/Conferences/2026) | ~Sep 2026 | ~Dec 6, 2026 | Sydney, Australia | |
+| Aug | 🟡 Upcoming | [NeurIPS 2026 Workshops](https://neurips.cc/Conferences/2026/CallForWorkshops) | ~Aug 29, 2026 | Dec 11–13, 2026 | Sydney / Atlanta / Paris | Suggested deadline Aug 29 (official); mandatory notification Sep 29; Sydney Dec 11–12, Paris/Atlanta Dec 12–13 |
 | Oct | 🔴 Closed | [AAAI 2026 Workshops](https://aaai.org/conference/aaai/aaai-26/) | ~Oct 2025 | Jan 20–21, 2026 | Singapore | |
 
 #### 2027 Cycle
@@ -131,6 +131,7 @@
 | Oct | 🔵 Future | [AAAI 2027 Workshops](https://aaai.org/conference/aaai/aaai-27/) | ~Oct–Nov 2026 | ~Feb 16, 2027 | Montréal, Canada | Historically ~Oct deadline |
 | Feb | 🔵 Future | [ICRA 2027 Workshops](https://2027.ieee-icra.org) | ~Feb 2027 | May 24 & 28, 2027 | Seoul, Korea | Workshop proposals due Sep 1, 2026 |
 | Feb | 🔵 Future | [ICLR 2027 Workshops](https://iclr.cc) | ~Feb 2027 | ~Apr/May 2027 | TBD | |
+| Mar | 🔵 Future | [AAMAS 2027 Workshops](https://warwick.ac.uk/fac/sci/dcs/aamas2027/) | ~Mar 2027 | ~May 3, 2027 | Hanoi, Vietnam | Historically ~Mar deadline; workshops before main program |
 | Mar | 🔵 Future | [CVPR 2027 Workshops](https://cvpr.thecvf.com/Conferences/2027) | ~Mar 2027 | ~Jun 19, 2027 | Seattle, WA | |
 | Apr | 🔵 Future | [ICML 2027 Workshops](https://icml2027.eurac.edu) | ~Apr 2027 | ~Jul 2027 | South Tyrol, Italy | |
 | Apr | 🔵 Future | [ACL/EACL 2027 Workshops](https://aclweb.org) | ~Apr 2027 | ~Apr/Jul 2027 | TBD | EACL 2027 (Mar) + ACL 2027 (Jul) both hold workshops |
