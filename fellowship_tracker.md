@@ -1,6 +1,6 @@
 # Fellowship & Award Tracker
 
-> **Last updated:** `2026-08-10`
+> **Last updated:** `2026-08-16`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents
 >
@@ -10,15 +10,15 @@
 
 ## ⚡ Upcoming Deadlines (Next 90 Days)
 
-Window: Aug 10 – Nov 8, 2026
+Window: Aug 16 – Nov 14, 2026
 
 | Fellowship | ~Deadline | ~Days Away | Action Needed |
 |-----------|----------|-----------|---------------|
-| [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | ~Aug 31, 2026 | ~21 days | Faculty advisor must nominate — confirm with advisor now (dept. limit 3 nominations, 4 per university) |
-| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~25 days | University nominates ≤5 — confirm UF internal deadline with grad school (typically 2–3 weeks before Apple's date) |
-| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~36 days | Self-apply — no nomination needed; 2027–28 cycle not yet posted, watch research.nvidia.com; start drafting GPU/VLM research pitch now |
-| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~41 days | Applications open (since Aug 3) — no nomination needed; draft research statement now; ref letters due Oct 6 |
-| [**Open Philanthropy AI Fellowship**](https://www.openphilanthropy.org/focus/global-catastrophic-risks/) | ~Oct 2026 (varies) | ~TBD | Self-apply — verify exact date in September; frame UQ/robustness work as AI safety |
+| [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | ~Aug 31, 2026 | ~15 days | Faculty advisor must nominate — confirm with advisor now (dept. limit 3 nominations, 4 per university) |
+| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~20 days | University nominates ≤5 — confirm UF internal deadline with grad school (typically 2–3 weeks before Apple's date) |
+| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~30 days | Self-apply — no nomination needed; 2027–28 cycle not yet posted, watch research.nvidia.com; start drafting GPU/VLM research pitch now |
+| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~35 days | Applications open (since Aug 3) — no nomination needed; draft research statement now; ref letters due Oct 6 |
+| [**Open Philanthropy AI Fellowship**](https://www.openphilanthropy.org/focus/global-catastrophic-risks/) | Paused (unconfirmed) | — | Reported paused/not accepting applications as of ~May 2026 — verify directly before assuming an Oct 2026 cycle exists |
 | [**Hertz Fellowship**](https://www.hertzfoundation.org/the-fellowship/) | ~Late Oct 2026 | ~TBD | Self-apply + faculty references — start early given multi-round interview process |
 
 **On the horizon (beyond 90 days):**
@@ -70,7 +70,7 @@ Window: Aug 10 – Nov 8, 2026
 | Fellowship | Provider | ~Deadline | Value | Duration | Nomination? | Eligibility | Research Fit | Notes |
 |-----------|---------|----------|-------|----------|------------|------------|-------------|-------|
 | [**Hertz Fellowship**](https://www.hertzfoundation.org/the-fellowship/) | Hertz Foundation | ~Late Oct | $34K/yr stipend + thesis research allowance | Up to 5 yrs | **Self-apply** (+ faculty references) | US citizen/PR; PhD in applied physical/biological/engineering sciences (CS/AI qualifies) | ML, UQ, VLM | Extremely prestigious and competitive (~3% acceptance rate). Multi-round interview process. Worth applying early in PhD alongside NSF GRFP |
-| [**Open Philanthropy AI Fellowship**](https://www.openphilanthropy.org/focus/global-catastrophic-risks/) | Open Philanthropy | ~Oct (varies) | $40K/yr stipend + full tuition + $10K/yr research support | Up to 5 yrs | **Self-apply** (some programs institution-specific) | PhD students focused on AI safety/alignment/robustness | ML, LLM, Agents, UQ | Strong fit: robustness, hallucination mitigation, and reliability in AI systems all align with their "potential risks from advanced AI" priority. Frame UQ work as reliability/safety |
+| [**Open Philanthropy AI Fellowship**](https://www.openphilanthropy.org/focus/global-catastrophic-risks/) | Open Philanthropy | ~Oct (varies) | $40K/yr stipend + full tuition + $10K/yr research support | Up to 5 yrs | **Self-apply** (some programs institution-specific) | PhD students focused on AI safety/alignment/robustness | ML, LLM, Agents, UQ | Strong fit: robustness, hallucination mitigation, and reliability in AI systems all align with their "potential risks from advanced AI" priority. Frame UQ work as reliability/safety. **Reported paused/not accepting applications as of ~May 2026 — verify current status on official page before counting on a 2026 cycle** |
 | [**Jane Street Graduate Research Fellowship**](https://www.janestreet.com/join-jane-street/our-programs/graduate-research-fellowship/) | Jane Street | ~Mid-Feb | $50K/yr + paid summer internship | 1 yr | **Self-apply** | PhD in CS, math, stats, or related; any year; **open to all nationalities** | ML, UQ | Quantitative and theory-focused. UQ, calibration, and probabilistic ML fit naturally. One of the better non-citizenship-restricted fellowships |
 | [**Samsung AI Researcher of the Year**](https://research.samsung.com) | Samsung AI | Varies | Award + research collaboration opportunity | — | Nomination / publication-based | Active researchers with strong AI/ML publications | ML, VLM, LLM | Recognition award rather than funding fellowship. Relevance increases with strong VLM publications |
 
