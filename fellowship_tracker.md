@@ -1,6 +1,6 @@
 # Fellowship & Award Tracker
 
-> **Last updated:** `2026-08-23`
+> **Last updated:** `2026-08-30`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents
 >
@@ -10,26 +10,27 @@
 
 ## ⚡ Upcoming Deadlines (Next 90 Days)
 
-Window: Aug 23 – Nov 21, 2026
+Window: Aug 30 – Nov 28, 2026
 
 | Fellowship | ~Deadline | ~Days Away | Action Needed |
 |-----------|----------|-----------|---------------|
-| [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | ~Aug 31, 2026 | ~8 days | Faculty advisor must nominate — confirm with advisor NOW (dept. limit 3 nominations, 4 per university); effectively last call |
-| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~13 days | University nominates ≤5 — UF internal deadline is typically 2–3 weeks before Apple's date, so contact grad school immediately |
-| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~23 days | Self-apply — no nomination needed; 2027–28 cycle still not posted (2026–27 closed Sep 15, 2025), watch research.nvidia.com; draft GPU/VLM pitch now |
-| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~28 days | Applications open (since Aug 3) — no nomination needed; finalize research statement; ref letters due Oct 6 |
-| [**Anthropic Fellows Program**](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | ~Sep 2026 (reopen) | ~10–40 days | Cohort 3 (Aug 2027 start) applications reopen Sep 2026; rolling review for the Jan 2027 cohort is already live — apply early, spots fill continuously |
-| [**Hertz Fellowship**](https://www.hertzfoundation.org/the-fellowship/) | ~Late Oct 2026 | ~65 days | Self-apply + faculty references — start now given multi-round interview process |
-| [**Two Sigma PhD Fellowship**](https://www.twosigma.com/academic-partnerships/phd-fellowship/) | ~Nov 2026 | ~70–100 days | Self-apply; exact date not yet posted — check official page in early Oct |
-| [**NSF GRFP**](https://www.nsfgrfp.org) | ~Mid-Nov 2026 | ~85 days | **Highest priority if in PhD year 1–2.** CS/CISE deadline not yet posted for FY2027 (FY2026 was Nov 12); references lock 5 days early — line up letter writers in September |
-| [**Open Philanthropy AI Fellowship**](https://www.openphilanthropy.org/focus/global-catastrophic-risks/) | Paused (unconfirmed) | — | Still reported paused/not accepting applications — verify directly before assuming an Oct 2026 cycle exists |
+| [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | ~Aug 31, 2026 | ~1 day | Faculty advisor must nominate — effectively closed unless advisor already started (dept. limit 3 nominations, 4 per university) |
+| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~6 days | University nominates ≤5 — UF internal deadline is typically 2–3 weeks before Apple's date; likely already passed, contact grad school today |
+| [**Anthropic Fellows Program**](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Rolling | — | Rolling review live for the next cohort (~late Sep/Oct 2026 start) and the Jan 2027 cohort; Cohort 3 (Aug 2027 start) reopens ~Sep 2026 — apply early, spots fill continuously |
+| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~16 days | Self-apply — no nomination needed; 2027–28 cycle still not posted (2026–27 closed Sep 15, 2025), watch research.nvidia.com; draft GPU/VLM pitch now |
+| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~21 days | Applications open (since Aug 3) — no nomination needed; finalize research statement; ref letters due Oct 6 |
+| [**NSF GRFP**](https://www.nsfgrfp.org) | **Oct 20, 2026** (CISE) | ~51 days | **Highest priority if in PhD year 1–2.** FY2027 dates now posted (NSF 26-526): CISE deadline Oct 20, 8pm ET; **reference letters lock Oct 16** — confirm letter writers this week. Note: moved back to October (was mid-Nov in FY2026) |
+| [**Hertz Fellowship**](https://www.hertzfoundation.org/the-fellowship/) | ~Late Oct 2026 | ~58 days | Self-apply + faculty references — start now given multi-round interview process; exact date not posted, check hertzfoundation.org/hertz-fellowship/apply |
+| [**Two Sigma PhD Fellowship**](https://www.twosigma.com/academic-partnerships/phd-fellowship/) | ~Nov 2026 | ~63–92 days | Self-apply; exact date not yet posted — check official page in early Oct |
+| [**Adobe Research GEM Fellowship**](https://research.adobe.com/fellowship/) | ~Nov 2026 | ~63–92 days | University nomination — raise with UF grad school in September if interested |
+| [**Coefficient Giving (Open Phil) AI Fellowship**](https://coefficientgiving.org/ai-fellowship/) | Paused | — | Open Philanthropy rebranded to **Coefficient Giving** (Nov 2025). AI Fellowship still reported **paused / not accepting applications** — verify before assuming an Oct 2026 cycle |
 
 **On the horizon (beyond 90 days):**
 - **NDSEG / SMART** — both ~Dec 2026; US citizenship required, self-apply.
 - **Microsoft Research Fellowship / Qualcomm Innovation Fellowship** — ~Dec 2026; both need faculty involvement, so raise with advisor in October.
 - **OpenAI Safety Fellowship** — 2026 cycle closed May 3 (program runs Sep 14, 2026 – Feb 5, 2027); no 2027 cycle announced yet, expected ~May 2027.
 - **DOE CSGF** — ~Mid-Jan 2027; mandatory 3-month DOE lab practicum.
-- **Anthropic Claude Corps** — new 12-month, $85K nonprofit AI-deployment fellowship; Cohort 3 applications reopen Sep 2026. *Not tracked in the tables* — it targets early-career (<2 yrs work experience) deployment work, not PhD research.
+- **Anthropic Claude Corps** — 12-month, $85K nonprofit AI-deployment fellowship; Cohort 3 applications reopen ~Sep 2026. *Not tracked in the tables* — it targets early-career (<2 yrs work experience) deployment work, not PhD research.
 
 ---
 
@@ -61,7 +62,7 @@ Window: Aug 23 – Nov 21, 2026
 
 | Fellowship | Provider | ~Deadline | Value | Duration | Nomination? | Eligibility | Research Fit | Notes |
 |-----------|---------|----------|-------|----------|------------|------------|-------------|-------|
-| [**NSF Graduate Research Fellowship (GRFP)**](https://www.nsfgrfp.org) | NSF | ~Mid-Nov | $37K/yr stipend + $16K/yr education allowance | 3 yrs (within 5-yr window) | **Self-apply** | US citizen/PR/national; **PhD years 1–2 only** (or final undergrad year) | ML, VLM, LLM, UQ, Agents | **Highest priority early-PhD application.** Eligibility window closes after year 2. CS deadline moved to mid-November starting FY2026 (was mid-October). References lock 5 days before student deadline |
+| [**NSF Graduate Research Fellowship (GRFP)**](https://www.nsfgrfp.org) | NSF | ~Mid-Oct | $37K/yr stipend + $16K/yr education allowance | 3 yrs (within 5-yr window) | **Self-apply** | US citizen/PR/national; **PhD years 1–2 only** (or final undergrad year) | ML, VLM, LLM, UQ, Agents | **Highest priority early-PhD application.** Eligibility window closes after year 2. FY2027 (NSF 26-526): CISE deadline **Oct 20, 2026**, references lock **Oct 16, 2026** — back to mid-October after the one-year FY2026 shift to November |
 | [**DOE Computational Science Graduate Fellowship (CSGF)**](https://www.krellinst.org/csgf/) | Dept. of Energy | ~Mid-Jan | $45K/yr stipend + full tuition + $1K/yr academic allowance + HPC access | 4 yrs | **Self-apply** | US citizen/PR; entering or early PhD in computational science | ML, UQ | Mandatory 3-month DOE lab practicum (ORNL, ANL, NERSC etc.) — excellent for large-scale model training access. Aligns well with HiPerGator experience |
 | [**NDSEG Fellowship**](https://ndseg.sysplus.com) | Dept. of Defense | ~Dec | $38K/yr stipend + full tuition + health insurance | 3 yrs | **Self-apply** | US citizen/national; early PhD (typically years 1–2) | ML, VLM, Agents, UQ | DoD-funded; **no post-graduation service commitment**. AI robustness, safety, and reliable systems frame well here |
 | [**SMART Scholarship**](https://www.smartscholarship.org) | Dept. of Defense | ~Dec | Full tuition + $25–38K/yr stipend + paid summer internship at DoD facility | Until graduation | **Self-apply** | US citizen; PhD or MS | ML, Agents | **Requires post-graduation DoD employment commitment** — weigh carefully against academic career goals. Strong for applied AI/agents research |
@@ -73,7 +74,7 @@ Window: Aug 23 – Nov 21, 2026
 | Fellowship | Provider | ~Deadline | Value | Duration | Nomination? | Eligibility | Research Fit | Notes |
 |-----------|---------|----------|-------|----------|------------|------------|-------------|-------|
 | [**Hertz Fellowship**](https://www.hertzfoundation.org/the-fellowship/) | Hertz Foundation | ~Late Oct | $34K/yr stipend + thesis research allowance | Up to 5 yrs | **Self-apply** (+ faculty references) | US citizen/PR; PhD in applied physical/biological/engineering sciences (CS/AI qualifies) | ML, UQ, VLM | Extremely prestigious and competitive (~3% acceptance rate). Multi-round interview process. Worth applying early in PhD alongside NSF GRFP |
-| [**Open Philanthropy AI Fellowship**](https://www.openphilanthropy.org/focus/global-catastrophic-risks/) | Open Philanthropy | ~Oct (varies) | $40K/yr stipend + full tuition + $10K/yr research support | Up to 5 yrs | **Self-apply** (some programs institution-specific) | PhD students focused on AI safety/alignment/robustness | ML, LLM, Agents, UQ | Strong fit: robustness, hallucination mitigation, and reliability in AI systems all align with their "potential risks from advanced AI" priority. Frame UQ work as reliability/safety. **Reported paused/not accepting applications as of ~May 2026 — verify current status on official page before counting on a 2026 cycle** |
+| [**Coefficient Giving AI Fellowship**](https://coefficientgiving.org/ai-fellowship/) | Coefficient Giving (formerly Open Philanthropy) | ~Oct (varies) | $40K/yr stipend + full tuition + $10K/yr research support | Up to 5 yrs | **Self-apply** (some programs institution-specific) | PhD students focused on AI safety/alignment/robustness | ML, LLM, Agents, UQ | Strong fit: robustness, hallucination mitigation, and reliability in AI systems all align with their "potential risks from advanced AI" priority. Frame UQ work as reliability/safety. **Open Philanthropy rebranded to Coefficient Giving (Nov 2025); program areas are now "funds." Fellowship still reported paused/not accepting applications as of Aug 2026 — verify on official page before counting on a 2026 cycle** |
 | [**Jane Street Graduate Research Fellowship**](https://www.janestreet.com/join-jane-street/our-programs/graduate-research-fellowship/) | Jane Street | ~Mid-Feb | $50K/yr + paid summer internship | 1 yr | **Self-apply** | PhD in CS, math, stats, or related; any year; **open to all nationalities** | ML, UQ | Quantitative and theory-focused. UQ, calibration, and probabilistic ML fit naturally. One of the better non-citizenship-restricted fellowships |
 | [**Samsung AI Researcher of the Year**](https://research.samsung.com) | Samsung AI | Varies | Award + research collaboration opportunity | — | Nomination / publication-based | Active researchers with strong AI/ML publications | ML, VLM, LLM | Recognition award rather than funding fellowship. Relevance increases with strong VLM publications |
 
@@ -101,7 +102,7 @@ Window: Aug 23 – Nov 21, 2026
 | NDSEG | ✓✓ | ✓ | — | ✓ | ✓✓ | — |
 | SMART Scholarship | ✓ | — | — | — | ✓✓ | — |
 | Hertz Fellowship | ✓✓ | ✓ | ✓ | ✓✓ | — | — |
-| Open Phil AI Fellowship | ✓✓ | — | ✓ | ✓✓ | ✓✓ | — |
+| Coefficient Giving (Open Phil) AI Fellowship | ✓✓ | — | ✓ | ✓✓ | ✓✓ | — |
 | Jane Street Fellowship | ✓ | — | — | ✓✓ | — | — |
 
 `✓✓` = primary/strong fit · `✓` = relevant · `—` = not a focus area
@@ -117,13 +118,13 @@ Window: Aug 23 – Nov 21, 2026
 
 ### Key Practical Notes
 - **Google PhD Fellowship**: 2026 cycle closed April 30; start preparing for 2027 cycle in early March. UF's internal deadline is typically 2–3 weeks before Google's official date — reach out to UF grad school in early March each year
-- **NSF GRFP**: CS deadline moved to **mid-November** starting FY2026 (was mid-October). Eligibility is strictly limited — at most twice total (undergrad senior or PhD year 1/2). After year 2, permanently ineligible
+- **NSF GRFP**: FY2027 CISE deadline is **Oct 20, 2026** (references Oct 16) — back to mid-October after FY2026's November shift. Eligibility is strictly limited — at most twice total (undergrad senior or PhD year 1/2). After year 2, permanently ineligible
 - **Anthropic Fellows**: Multiple cohorts/yr — Nov 2, 2026 cohort is closed. **Rolling review now open for the Jan 2027 cohort**; Cohort 3 (Aug 2027 start) reopens Sep 2026. Rolling means no hard deadline — apply early. 4 months, $3,850/wk + compute. Self-apply, no nomination barrier. US/UK/Canada residency required. Check alignment.anthropic.com for current open cycle
 - **OpenAI Safety Fellowship**: New annual program (~May deadline, Sep–Feb cycle). Self-apply. Frame UQ and robustness work as safety research — strong fit for their priority areas
 - **DOE CSGF**: The mandatory 3-month DOE lab practicum is non-negotiable — it provides large-scale HPC access (ORNL, NERSC) that complements HiPerGator for scaling experiments
 - **Meta Fellowship**: Fully open — no nomination barrier. One of the highest-value fellowships you can apply to without advisor involvement. Opens Aug 3, deadline Sep 20
 - **Hertz**: ~3% acceptance, multi-round interviews. Worth attempting but don't count on it — apply in parallel with NSF GRFP
-- **Open Phil**: Their "potential risks from advanced AI" priority explicitly covers hallucination, reliability, and robustness — frame your UQ/robustness research in those terms
+- **Coefficient Giving (ex-Open Phil)**: Their "potential risks from advanced AI" priority explicitly covers hallucination, reliability, and robustness — frame your UQ/robustness research in those terms
 - **Intel**: Program restructured to semiconductor-specific focus via SRC; restricted to specific invited universities — no longer applicable for UF AI/ML research
 - **US citizenship requirement**: NSF GRFP, DOE CSGF, NDSEG, SMART, Hertz all require US citizenship or PR — verify your status before investing time
 - Always verify deadlines on official sites — most shift by 1–3 weeks each year
