@@ -1,6 +1,6 @@
 # Fellowship & Award Tracker
 
-> **Last updated:** `2026-08-30`
+> **Last updated:** `2026-09-06`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents
 >
@@ -10,25 +10,26 @@
 
 ## ⚡ Upcoming Deadlines (Next 90 Days)
 
-Window: Aug 30 – Nov 28, 2026
+Window: Sep 6 – Dec 5, 2026
 
 | Fellowship | ~Deadline | ~Days Away | Action Needed |
 |-----------|----------|-----------|---------------|
-| [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | ~Aug 31, 2026 | ~1 day | Faculty advisor must nominate — effectively closed unless advisor already started (dept. limit 3 nominations, 4 per university) |
-| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~6 days | University nominates ≤5 — UF internal deadline is typically 2–3 weeks before Apple's date; likely already passed, contact grad school today |
-| [**Anthropic Fellows Program**](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Rolling | — | Rolling review live for the next cohort (~late Sep/Oct 2026 start) and the Jan 2027 cohort; Cohort 3 (Aug 2027 start) reopens ~Sep 2026 — apply early, spots fill continuously |
-| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~16 days | Self-apply — no nomination needed; 2027–28 cycle still not posted (2026–27 closed Sep 15, 2025), watch research.nvidia.com; draft GPU/VLM pitch now |
-| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~21 days | Applications open (since Aug 3) — no nomination needed; finalize research statement; ref letters due Oct 6 |
-| [**NSF GRFP**](https://www.nsfgrfp.org) | **Oct 20, 2026** (CISE) | ~51 days | **Highest priority if in PhD year 1–2.** FY2027 dates now posted (NSF 26-526): CISE deadline Oct 20, 8pm ET; **reference letters lock Oct 16** — confirm letter writers this week. Note: moved back to October (was mid-Nov in FY2026) |
-| [**Hertz Fellowship**](https://www.hertzfoundation.org/the-fellowship/) | ~Late Oct 2026 | ~58 days | Self-apply + faculty references — start now given multi-round interview process; exact date not posted, check hertzfoundation.org/hertz-fellowship/apply |
-| [**Two Sigma PhD Fellowship**](https://www.twosigma.com/academic-partnerships/phd-fellowship/) | ~Nov 2026 | ~63–92 days | Self-apply; exact date not yet posted — check official page in early Oct |
-| [**Adobe Research GEM Fellowship**](https://research.adobe.com/fellowship/) | ~Nov 2026 | ~63–92 days | University nomination — raise with UF grad school in September if interested |
+| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~0–3 days | University nominates ≤5 — UF internal deadline (2–3 weeks earlier) has almost certainly passed; treat as closed for this cycle, note for Aug 2027 |
+| [**Anthropic Fellows Program**](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Rolling | — | **Rolling review open now** for the late-Sep/Oct 2026 cohort and Jan 2027 cohort. Program now split into 5 workstreams (AI safety, AI security, ML systems, RL, econ/policy) — pick the safety or ML-systems track. Apply early; spots fill continuously |
+| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~9 days | Self-apply — no nomination needed; 2027–28 cycle **still not posted** (2026–27 closed Sep 15, 2025). Check research.nvidia.com weekly; draft GPU/VLM pitch now so you can submit fast if it opens |
+| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~14 days | **Closes in 2 weeks** — applications open since Aug 3, no nomination needed; finalize research statement now; ref letters due Oct 6 |
+| [**NSF GRFP**](https://www.nsfgrfp.org) | **Oct 20, 2026** (CISE) | ~44 days | **Highest priority if in PhD year 1–2.** FY2027 (NSF 26-526): CISE deadline Oct 20, 8pm ET; **reference letters lock Oct 16** — confirm letter writers now. Moved back to October (was mid-Nov in FY2026) |
+| [**Hertz Fellowship**](https://www.hertzfoundation.org/the-fellowship/) | ~Late Oct 2026 | ~51 days | Self-apply + faculty references — start now given multi-round interview process; exact date not posted, check hertzfoundation.org/hertz-fellowship/apply |
+| [**Two Sigma PhD Fellowship**](https://www.twosigma.com/academic-partnerships/phd-fellowship/) | ~Nov 2026 | ~56–85 days | Self-apply; exact date not yet posted — check official page in early Oct |
+| [**Adobe Research GEM Fellowship**](https://research.adobe.com/fellowship/) | ~Nov 2026 | ~56–85 days | University nomination — raise with UF grad school this month if interested |
+| [**NDSEG Fellowship**](https://ndseg.sysplus.com) | ~Early Dec 2026 | ~86–90 days | Self-apply; US citizen/national only. Cycle usually opens in the fall — watch for the FY2027 announcement |
+| [**SMART Scholarship**](https://www.smartscholarship.org) | ~Early Dec 2026 | ~86–90 days | Self-apply; US citizen only. Carries a post-graduation DoD service commitment — decide before investing effort |
+| [**Microsoft Research Fellowship**](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | ~Dec 2026 | ~86+ days | Faculty nomination needed — raise with advisor in October so the nomination is not rushed |
+| [**Qualcomm Innovation Fellowship**](https://www.qualcomm.com/research/university-relations/innovation-fellowship) | ~Dec 2026 | ~86+ days | Team of 2 PhD students + faculty — line up a co-applicant in October |
 | [**Coefficient Giving (Open Phil) AI Fellowship**](https://coefficientgiving.org/ai-fellowship/) | Paused | — | Open Philanthropy rebranded to **Coefficient Giving** (Nov 2025). AI Fellowship still reported **paused / not accepting applications** — verify before assuming an Oct 2026 cycle |
 
 **On the horizon (beyond 90 days):**
-- **NDSEG / SMART** — both ~Dec 2026; US citizenship required, self-apply.
-- **Microsoft Research Fellowship / Qualcomm Innovation Fellowship** — ~Dec 2026; both need faculty involvement, so raise with advisor in October.
-- **OpenAI Safety Fellowship** — 2026 cycle closed May 3 (program runs Sep 14, 2026 – Feb 5, 2027); no 2027 cycle announced yet, expected ~May 2027.
+- **OpenAI Safety Fellowship** — 2026 cycle closed May 3; the 2026 cohort program starts Sep 14, 2026 and runs to Feb 5, 2027. No 2027 cycle announced yet — expect ~Apr–May 2027 (2026 applications opened early April).
 - **DOE CSGF** — ~Mid-Jan 2027; mandatory 3-month DOE lab practicum.
 - **Anthropic Claude Corps** — 12-month, $85K nonprofit AI-deployment fellowship; Cohort 3 applications reopen ~Sep 2026. *Not tracked in the tables* — it targets early-career (<2 yrs work experience) deployment work, not PhD research.
 
@@ -42,7 +43,7 @@ Window: Aug 30 – Nov 28, 2026
 |-----------|---------|----------|-------|----------|------------|------------|-------------|-------|
 | [**Google PhD Fellowship**](https://research.google/programs-and-events/phd-fellowship/) | Google | ~Late Apr | Up to $85K/yr (tuition, stipend, travel, equipment) + Google Research mentor | 1–3 yrs | University nominates ≤3 | PhD in CS/related; any year | ML, VLM, LLM, UQ, Agents | Gold standard industry fellowship. 2026 cycle closed April 30; results by Aug 31. UF nominates through grad school — internal deadline typically 2–3 weeks earlier |
 | [**Amazon Research Awards**](https://www.amazon.science/research-awards) | Amazon | ~May (Spring) ~Nov (Fall) | Up to ~$100K total + AWS credits | 2 yrs | Faculty nominates | PhD at partner universities; faculty-driven proposal | ML, VLM, LLM, CV | Two cycles/year; advisor submits research proposal. Part of $68M initiative across CMU, UCB, MIT and partners |
-| [**Anthropic Fellows Program**](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | ~Late Apr (+ rolling) | $3,850/wk + up to $15K/mo compute | 4 months | **Self-apply** | PhD students and researchers eligible; US/UK/Canada residency required | ML, LLM, Agents, Safety | Est. 2025. Multiple cohorts/yr; **Nov 2, 2026 cohort closed (Jul 26, 2026)**. Now rolling for the Jan 2027 cohort; Cohort 3 (Aug 2027 start) applications reopen Sep 2026, no fixed deadline posted — applications open ~2–3 months before each start date. Focus: scalable oversight, adversarial robustness, AI control, mechanistic interpretability. ~25–50% of past fellows received FT offers. Strong fit for robustness/UQ framing |
+| [**Anthropic Fellows Program**](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Anthropic | ~Late Apr (+ rolling) | $3,850/wk + up to $15K/mo compute | 4 months | **Self-apply** | PhD students and researchers eligible; US/UK/Canada residency required | ML, LLM, Agents, Safety | Est. 2025. Multiple cohorts/yr; **Nov 2, 2026 cohort closed (Jul 26, 2026)**. Now rolling for the Jan 2027 cohort; Cohort 3 (Aug 2027 start) applications reopen Sep 2026, no fixed deadline posted — applications open ~2–3 months before each start date. Now organized into 5 workstreams: AI safety, AI security, ML systems, RL, and econ/societal/policy. Focus areas: scalable oversight, adversarial robustness, AI control, mechanistic interpretability. ~25–50% of past fellows received FT offers. Strong fit for robustness/UQ framing |
 | [**OpenAI Safety Fellowship**](https://openai.com/index/introducing-openai-safety-fellowship/) | OpenAI | ~May | Stipend + compute support | ~5 months (Sep–Feb) | **Self-apply** | PhD students and researchers; CS, social science, cybersecurity, HCI | ML, LLM, Agents, Safety | New (est. 2026). Annual cycle; 2026 deadline was May 3. Focus: safety eval, robustness, agentic oversight, privacy-preserving safety. Strong fit for UQ/robustness work framed as safety |
 | [**IBM PhD Fellowship**](https://research.ibm.com/university/awards/fellowships.html) | IBM | ~Late Aug | ~$40K+/yr stipend + tuition support + IBM Research mentor | 1–2 yrs | Faculty advisor nominates | Full-time PhD; any year | ML, UQ, Agents | Targets AI, hybrid cloud, quantum+ML intersections. Good match for uncertainty-aware systems |
 | [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | Apple | ~Early Sep | $40K/yr stipend + full tuition + $2K travel + paid internship | 2 yrs | University nominates ≤5 (priority for underrepresented groups) | PhD years 2–3 | ML, VLM, LLM, CV | Strong fit for VLM/privacy-preserving ML research. One of the more generous packages among industry fellowships |
@@ -119,7 +120,7 @@ Window: Aug 30 – Nov 28, 2026
 ### Key Practical Notes
 - **Google PhD Fellowship**: 2026 cycle closed April 30; start preparing for 2027 cycle in early March. UF's internal deadline is typically 2–3 weeks before Google's official date — reach out to UF grad school in early March each year
 - **NSF GRFP**: FY2027 CISE deadline is **Oct 20, 2026** (references Oct 16) — back to mid-October after FY2026's November shift. Eligibility is strictly limited — at most twice total (undergrad senior or PhD year 1/2). After year 2, permanently ineligible
-- **Anthropic Fellows**: Multiple cohorts/yr — Nov 2, 2026 cohort is closed. **Rolling review now open for the Jan 2027 cohort**; Cohort 3 (Aug 2027 start) reopens Sep 2026. Rolling means no hard deadline — apply early. 4 months, $3,850/wk + compute. Self-apply, no nomination barrier. US/UK/Canada residency required. Check alignment.anthropic.com for current open cycle
+- **Anthropic Fellows**: Multiple cohorts/yr — Nov 2, 2026 cohort is closed. **Rolling review open for the late-Sep/Oct 2026 and Jan 2027 cohorts**; program now split into 5 workstreams (AI safety, AI security, ML systems, RL, econ/policy). Rolling means no hard deadline — apply early. 4 months, $3,850/wk + compute. Self-apply, no nomination barrier. US/UK/Canada residency required. Check alignment.anthropic.com for current open cycle
 - **OpenAI Safety Fellowship**: New annual program (~May deadline, Sep–Feb cycle). Self-apply. Frame UQ and robustness work as safety research — strong fit for their priority areas
 - **DOE CSGF**: The mandatory 3-month DOE lab practicum is non-negotiable — it provides large-scale HPC access (ORNL, NERSC) that complements HiPerGator for scaling experiments
 - **Meta Fellowship**: Fully open — no nomination barrier. One of the highest-value fellowships you can apply to without advisor involvement. Opens Aug 3, deadline Sep 20
