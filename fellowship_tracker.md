@@ -1,6 +1,6 @@
 # Fellowship & Award Tracker
 
-> **Last updated:** `2026-09-06`
+> **Last updated:** `2026-09-13`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents
 >
@@ -10,22 +10,21 @@
 
 ## ⚡ Upcoming Deadlines (Next 90 Days)
 
-Window: Sep 6 – Dec 5, 2026
+Window: Sep 13 – Dec 12, 2026
 
 | Fellowship | ~Deadline | ~Days Away | Action Needed |
 |-----------|----------|-----------|---------------|
-| [**Apple Scholars in AI/ML**](https://machinelearning.apple.com/updates/apple-scholars-aiml) | ~Early Sep 2026 | ~0–3 days | University nominates ≤5 — UF internal deadline (2–3 weeks earlier) has almost certainly passed; treat as closed for this cycle, note for Aug 2027 |
 | [**Anthropic Fellows Program**](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/) | Rolling | — | **Rolling review open now** for the late-Sep/Oct 2026 cohort and Jan 2027 cohort. Program now split into 5 workstreams (AI safety, AI security, ML systems, RL, econ/policy) — pick the safety or ML-systems track. Apply early; spots fill continuously |
-| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~9 days | Self-apply — no nomination needed; 2027–28 cycle **still not posted** (2026–27 closed Sep 15, 2025). Check research.nvidia.com weekly; draft GPU/VLM pitch now so you can submit fast if it opens |
-| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~14 days | **Closes in 2 weeks** — applications open since Aug 3, no nomination needed; finalize research statement now; ref letters due Oct 6 |
-| [**NSF GRFP**](https://www.nsfgrfp.org) | **Oct 20, 2026** (CISE) | ~44 days | **Highest priority if in PhD year 1–2.** FY2027 (NSF 26-526): CISE deadline Oct 20, 8pm ET; **reference letters lock Oct 16** — confirm letter writers now. Moved back to October (was mid-Nov in FY2026) |
-| [**Hertz Fellowship**](https://www.hertzfoundation.org/the-fellowship/) | ~Late Oct 2026 | ~51 days | Self-apply + faculty references — start now given multi-round interview process; exact date not posted, check hertzfoundation.org/hertz-fellowship/apply |
-| [**Two Sigma PhD Fellowship**](https://www.twosigma.com/academic-partnerships/phd-fellowship/) | ~Nov 2026 | ~56–85 days | Self-apply; exact date not yet posted — check official page in early Oct |
-| [**Adobe Research GEM Fellowship**](https://research.adobe.com/fellowship/) | ~Nov 2026 | ~56–85 days | University nomination — raise with UF grad school this month if interested |
-| [**NDSEG Fellowship**](https://ndseg.sysplus.com) | ~Early Dec 2026 | ~86–90 days | Self-apply; US citizen/national only. Cycle usually opens in the fall — watch for the FY2027 announcement |
-| [**SMART Scholarship**](https://www.smartscholarship.org) | ~Early Dec 2026 | ~86–90 days | Self-apply; US citizen only. Carries a post-graduation DoD service commitment — decide before investing effort |
-| [**Microsoft Research Fellowship**](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | ~Dec 2026 | ~86+ days | Faculty nomination needed — raise with advisor in October so the nomination is not rushed |
-| [**Qualcomm Innovation Fellowship**](https://www.qualcomm.com/research/university-relations/innovation-fellowship) | ~Dec 2026 | ~86+ days | Team of 2 PhD students + faculty — line up a co-applicant in October |
+| [**NVIDIA Graduate Fellowship**](https://research.nvidia.com/graduate-fellowships) | ~Mid-Sep 2026 | ~2 days | Self-apply — no nomination needed; 2027–28 cycle **still not posted as of Sep 13** (official page says submissions closed) (2026–27 closed Sep 15, 2025). Check research.nvidia.com weekly; draft GPU/VLM pitch now so you can submit fast if it opens |
+| [**Meta Research PhD Fellowship**](https://research.facebook.com/fellowship/) | Sep 20, 2026 | ~7 days | **Closes in 1 week** — ⚠️ official fellowship page showed "not accepting new applications" on Sep 13; verify portal status immediately; applications open since Aug 3, no nomination needed; finalize research statement now; ref letters due Oct 6 |
+| [**NSF GRFP**](https://www.nsfgrfp.org) | **Oct 20, 2026** (CISE) | ~37 days | **Highest priority if in PhD year 1–2.** FY2027 (NSF 26-526): CISE deadline Oct 20, 8pm ET; **reference letters lock Oct 16** — confirm letter writers now. Moved back to October (was mid-Nov in FY2026) |
+| [**Hertz Fellowship**](https://www.hertzfoundation.org/the-fellowship/) | ~Late Oct 2026 | ~44 days | Self-apply + faculty references — start now given multi-round interview process; exact date not posted, check hertzfoundation.org/hertz-fellowship/apply |
+| [**Two Sigma PhD Fellowship**](https://www.twosigma.com/academic-partnerships/phd-fellowship/) | ~Nov 2026 | ~49–78 days | Self-apply; exact date not yet posted — check official page in early Oct |
+| [**Adobe Research GEM Fellowship**](https://research.adobe.com/fellowship/) | ~Nov 2026 | ~49–78 days | University nomination — raise with UF grad school this month if interested |
+| [**NDSEG Fellowship**](https://ndseg.sysplus.com) | ~Early Dec 2026 | ~79–90 days | Self-apply; US citizen/national only. Cycle usually opens in the fall — watch for the FY2027 announcement |
+| [**SMART Scholarship**](https://www.smartscholarship.org) | ~Early Dec 2026 | ~79–90 days | Self-apply; US citizen only. Carries a post-graduation DoD service commitment — decide before investing effort |
+| [**Microsoft Research Fellowship**](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | ~Dec 2026 | ~79+ days | Faculty nomination needed — raise with advisor in October so the nomination is not rushed |
+| [**Qualcomm Innovation Fellowship**](https://www.qualcomm.com/research/university-relations/innovation-fellowship) | ~Dec 2026 | ~79+ days | Team of 2 PhD students + faculty — line up a co-applicant in October |
 | [**Coefficient Giving (Open Phil) AI Fellowship**](https://coefficientgiving.org/ai-fellowship/) | Paused | — | Open Philanthropy rebranded to **Coefficient Giving** (Nov 2025). AI Fellowship still reported **paused / not accepting applications** — verify before assuming an Oct 2026 cycle |
 
 **On the horizon (beyond 90 days):**
