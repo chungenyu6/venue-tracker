@@ -1,10 +1,10 @@
 # Journal Tracker
 
-> **Last updated:** `2026-09-27`
+> **Last updated:** `2026-10-04`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents · Robotics
 >
-> ✅ **JCR 2026 released Jun 17, 2026** — IF (2025) column updated from secondary sources (journalmetrics.org citing JCR data). Values marked without `~` are well-confirmed; verify exact figures from [Clarivate JCR](https://clarivate.com/academia-government/scientific-and-academic-research/research-analytics-evaluation-and-citation/journal-citation-reports/) via institutional access. Several journals show significant IF drops vs. prior cycle — consistent with Clarivate's methodology changes (retracted-article citation exclusion, expanded journal coverage).
+> ✅ **JCR 2026 released Jun 17, 2026** (re-confirmed Oct 4, 2026 as the latest edition — 22,643 journals, 254 categories; next edition expected ~Jun 2027) — IF (2025) column updated from secondary sources (journalmetrics.org citing JCR data). Values marked without `~` are well-confirmed; verify exact figures from [Clarivate JCR](https://clarivate.com/academia-government/scientific-and-academic-research/research-analytics-evaluation-and-citation/journal-citation-reports/) via institutional access. Several journals show significant IF drops vs. prior cycle — consistent with Clarivate's methodology changes (retracted-article citation exclusion, expanded journal coverage).
 
 ---
 
