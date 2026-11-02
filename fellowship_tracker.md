@@ -1,6 +1,6 @@
 # Fellowship & Award Tracker
 
-> **Last updated:** `2026-10-30`
+> **Last updated:** `2026-11-01`
 >
 > Focused on: General ML · Vision/VLM · NLP/LLM · UQ · Agents
 >
@@ -10,20 +10,20 @@
 
 ## ⚡ Upcoming Deadlines (Next 90 Days)
 
-Window: Oct 30, 2026 – Jan 28, 2027
+Window: Nov 1, 2026 – Jan 30, 2027
 
 | Fellowship | ~Deadline | ~Days Away | Action Needed |
 |-----------|----------|-----------|---------------|
-| [**Adobe Research GEM Fellowship**](https://research.adobe.com/fellowship/) | ~Nov 2026 | ~1–31 days | University nomination — 2027 date not yet confirmed; ask UF grad school now if interested |
-| [**SMART Scholarship**](https://www.smartscholarship.org) | ~Dec 4, 2026 (5pm ET) | ~35 days | Self-apply; US citizen only. Rule is "first Friday in December" (aggregators list Dec 4–6 — verify on portal). Carries a post-graduation DoD service commitment — decide before investing effort |
-| [**Microsoft Research Fellowship**](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | ~Dec 2026 | ~32–62 days | Faculty nomination needed — raise with advisor now so the nomination is not rushed |
-| [**Qualcomm Innovation Fellowship**](https://www.qualcomm.com/research/university-relations/innovation-fellowship) | ~Dec 2026 | ~32–62 days | Team of 2 PhD students + faculty — line up a co-applicant now |
-| [**DOE CSGF**](https://www.krellinst.org/csgf/) | ~Mid-Jan 2027 | ~77 days | Self-apply; US citizen/PR. 2027 date not yet posted (prior cycles: Jan 15, 2026; Jan 16, 2025). Mandatory 3-month DOE lab practicum |
+| [**Adobe Research GEM Fellowship**](https://research.adobe.com/fellowship/) | ~Nov 2026 | ~0–29 days | University nomination — 2027 date not yet confirmed; ask UF grad school now if interested |
+| [**SMART Scholarship**](https://www.smartscholarship.org) | ~Dec 4, 2026 (5pm ET) | ~33 days | Self-apply; US citizen only. Rule is "first Friday in December" (aggregators list Dec 4–6 — verify on portal). Carries a post-graduation DoD service commitment — decide before investing effort |
+| [**Microsoft Research Fellowship**](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/) | ~Dec 2026 | ~30–60 days | Faculty nomination needed — raise with advisor now so the nomination is not rushed |
+| [**Qualcomm Innovation Fellowship**](https://www.qualcomm.com/research/university-relations/innovation-fellowship) | ~Dec 2026 | ~30–60 days | Team of 2 PhD students + faculty — line up a co-applicant now |
+| [**DOE CSGF**](https://www.krellinst.org/csgf/) | ~Mid-Jan 2027 | ~75 days | Self-apply; US citizen/PR. 2027 date not yet posted (prior cycles: Jan 15, 2026; Jan 16, 2025). Mandatory 3-month DOE lab practicum |
 | [**Coefficient Giving (Open Phil) AI Fellowship**](https://coefficientgiving.org/ai-fellowship/) | Paused | — | Open Philanthropy rebranded to **Coefficient Giving** (Nov 2025). AI Fellowship still reported **paused / not accepting applications** — verify before assuming a cycle |
 
 **Recently closed (removed from table):**
 - **NSF GRFP** — FY2027 CISE deadline Oct 20, 2026 passed.
-- **Hertz Fellowship** and **NDSEG** — both closed Oct 30, 2026 (today).
+- **Hertz Fellowship** and **NDSEG** — both closed Oct 30, 2026.
 - **Anthropic Fellows Program** — Jan 2027 cohort consideration deadline was **Oct 18, 2026** (per official page); applications remain rolling for later cohorts (~mid-2027 expected).
 - **Anthropic STEM / Conceptual Reasoning Fellows** (new, Jan 12–May 8, 2027) — closed Oct 28, 2026. Requires a completed PhD + US work authorization, so not applicable during PhD. *Not tracked in tables.*
 
@@ -31,7 +31,7 @@ Window: Oct 30, 2026 – Jan 28, 2027
 - **Two Sigma PhD Fellowship** — 2027 cycle **closed Sep 25, 2026** (window was Aug 14 → Sep 25, 12pm ET); awards announced Feb–Mar 2027. Next cycle expected to open ~Aug 2027. Note eligibility: PhD year 3+ with ≥2 yrs remaining.
 - **NVIDIA Graduate Fellowship** — 2027–28 cycle still not posted (official page read "Submissions are now CLOSED" as of Sep 27, 2026). The 2026–27 deadline was Sep 15, 2025, so the next cycle should open ~Aug 2027. Keep a GPU/VLM pitch drafted.
 - **Meta Research PhD Fellowship** — 2027 cycle closed Sep 20, 2026 (reference letters due Oct 6, 2026). Next cycle expected to open ~Aug 2027.
-- **OpenAI Safety Fellowship** — 2026 cycle closed May 3; the 2026 cohort program starts Sep 14, 2026 and runs to Feb 5, 2027. Confirmed as of Oct 30, 2026: still no 2027 cycle announced — expect ~Apr–May 2027 (2026 applications opened early April).
+- **OpenAI Safety Fellowship** — 2026 cycle closed May 3; the 2026 cohort program starts Sep 14, 2026 and runs to Feb 5, 2027. Confirmed as of Nov 1, 2026: still no 2027 cycle announced — expect ~Apr–May 2027 (2026 applications opened early April).
 - **Anthropic Claude Corps** — 12-month, $85K nonprofit AI-deployment fellowship; Cohort 3 applications reopen ~Sep 2026. *Not tracked in the tables* — it targets early-career (<2 yrs work experience) deployment work, not PhD research.
 
 ---
